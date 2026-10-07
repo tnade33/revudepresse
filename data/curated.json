@@ -1,0 +1,282 @@
+[
+  {
+    "source_id": "sud-ouest",
+    "published_at": "2026-09-28T12:00:00+02:00",
+    "title": "Saumos : extinction officielle de l’incendie",
+    "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-de-saumos-le-feu-est-officiellement-eteint-apres-avoir-detruit-37-296-hectares-30825152.php",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement"
+  },
+  {
+    "source_id": "sud-ouest",
+    "published_at": "2026-09-28T12:00:00+02:00",
+    "title": "Festival Cadences : la jeunesse et la danse sur le Bassin",
+    "url": "https://www.sudouest.fr/gironde/arcachon/festival-cadences-sur-le-bassin-d-arcachon-la-jeunesse-en-danse-30733641.php",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "sud-ouest",
+    "published_at": "2026-09-29T12:00:00+02:00",
+    "title": "Lège-Cap Ferret : exposition sur l’habitat et les défis climatiques",
+    "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-habiter-ici-une-exposition-pour-penser-le-territoire-de-demain-face-aux-defis-climatiques-30815570.php",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "urbanisme"
+  },
+  {
+    "source_id": "sud-ouest",
+    "published_at": "2026-09-29T12:00:00+02:00",
+    "title": "Arès : la Maison de la jeunesse et les attentes des familles",
+    "url": "https://www.sudouest.fr/gironde/ares/ares-la-maison-de-la-jeunesse-repond-a-une-forte-attente-des-familles-30802775.php",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "associations-sport"
+  },
+  {
+    "source_id": "sud-ouest",
+    "published_at": "2026-09-30T12:00:00+02:00",
+    "title": "Sud Bassin : préparation d’un pacte de gouvernance",
+    "url": "https://www.sudouest.fr/gironde/arcachon/chacun-a-sa-place-un-pacte-de-gouvernance-sur-les-rails-dans-l-agglomeration-sud-bassin-30748848.php",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "reconstruction-vie-publique"
+  },
+  {
+    "source_id": "sud-ouest",
+    "published_at": "2026-09-30T12:00:00+02:00",
+    "title": "Lège-Cap Ferret : les 90 ans de la menuiserie Castillon",
+    "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-l-entreprise-familiale-de-menuiserie-castillon-fete-ses-90-ans-d-existence-30838151.php",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "economie"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-04T12:00:00+02:00",
+    "title": "Forums des associations et nouvelles locales",
+    "url": "https://www.infobassin.com/forums/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "associations-sport"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-10T12:00:00+02:00",
+    "title": "Après les incendies : risques d’inondation et autres informations",
+    "url": "https://www.infobassin.com/infos-26-09-10/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-18T12:00:00+02:00",
+    "title": "Informations de la semaine : reconstruction, élus et patrimoine",
+    "url": "https://www.infobassin.com/info-26-09-18/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "reconstruction-vie-publique"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-18T12:00:00+02:00",
+    "title": "Sorties, saison culturelle et Journées du patrimoine",
+    "url": "https://www.infobassin.com/sorties-26-09-18/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-22T12:00:00+02:00",
+    "title": "Histoire du Bassin : anciennes publicités pour des bonbons à la cocaïne",
+    "url": "https://www.infobassin.com/bonbon-cocaine/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-23T12:00:00+02:00",
+    "title": "Andernos : présentation des projets d’urbanisme",
+    "url": "https://www.infobassin.com/tvx-andernos/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "urbanisme"
+  },
+  {
+    "source_id": "infobassin",
+    "published_at": "2026-09-25T12:00:00+02:00",
+    "title": "Informations et sorties : pare-feu, travaux et fouilles à la dune du Pilat",
+    "url": "https://www.infobassin.com/infos-sorties-25-09/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "vie-locale"
+  },
+  {
+    "source_id": "tvcapferret",
+    "published_at": "2026-09-01T12:00:00+02:00",
+    "title": "Idées de sorties du 4 au 6 septembre",
+    "url": "https://tvcapferret.com/sorties-bassin-arcachon-week-end-5-6-septembre-2026/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "tvcapferret",
+    "published_at": "2026-09-07T12:00:00+02:00",
+    "title": "Forum des associations de Lège-Cap Ferret",
+    "url": "https://tvcapferret.com/forum-associations-lege-cap-ferret-2026/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "associations-sport"
+  },
+  {
+    "source_id": "tvcapferret",
+    "published_at": "2026-09-16T12:00:00+02:00",
+    "title": "Casting Netflix au Cap Ferret et à Arcachon",
+    "url": "https://tvcapferret.com/casting-netflix-cap-ferret-arcachon/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "cinema-tournages"
+  },
+  {
+    "source_id": "tvcapferret",
+    "published_at": "2026-09-24T12:00:00+02:00",
+    "title": "Idées de sorties du 25 au 27 septembre",
+    "url": "https://tvcapferret.com/sorties-bassin-arcachon-25-27-septembre-2026/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "tvcapferret",
+    "published_at": "2026-09-26T12:00:00+02:00",
+    "title": "Jean Dufaux présente Le Dernier Rivage",
+    "url": "https://tvcapferret.com/jean-dufaux-le-dernier-rivage-cap-ferret/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "tvcapferret",
+    "published_at": "2026-09-30T12:00:00+02:00",
+    "title": "Idées de sorties du 2 au 4 octobre",
+    "url": "https://tvcapferret.com/que-faire-sur-le-bassin-darcachon-du-02-au-04-octobre-2026/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "culture-sorties"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-10T12:00:00+02:00",
+    "title": "Cap Ferret : enquête concernant le pare-feu de Benoît Bartherotte",
+    "url": "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-le-parquet-enquete-sur-le-pare-feu-du-cap-ferret-une-plainte-deposee-contre-benoit-bartherotte-20260910",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "justice-securite"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-10T12:00:00+02:00",
+    "title": "Forêts : trois communes du Bassin contestent l’action de l’État",
+    "url": "https://www.lefigaro.fr/bordeaux/c-est-du-racket-trois-communes-du-bassin-d-arcachon-accusent-l-etat-de-faire-main-basse-sur-leurs-forets-20260910",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-16T12:00:00+02:00",
+    "title": "Arcachon : proposition de loi sur la sécurité maritime",
+    "url": "https://www.lefigaro.fr/bordeaux/apres-le-drame-de-l-enfant-tue-a-arcachon-une-proposition-de-loi-deposee-pour-reguler-la-circulation-en-mer-20260916",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "justice-securite"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-16T12:00:00+02:00",
+    "title": "Netflix recherche 800 figurants sur le Bassin d’Arcachon",
+    "url": "https://www.lefigaro.fr/bordeaux/netflix-recherche-800-figurants-sur-le-bassin-d-arcachon-pour-son-adaptation-en-serie-de-la-vie-est-un-long-fleuve-tranquille-20260916",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "cinema-tournages"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-17T12:00:00+02:00",
+    "title": "Le chaton Saumos, sauvé pendant les incendies",
+    "url": "https://www.lefigaro.fr/animaux/jete-dans-une-poubelle-lors-des-incendies-sauve-par-les-pompiers-star-aux-milliers-d-abonnes-le-fabuleux-destin-du-chaton-saumos-20260917",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-21T12:00:00+02:00",
+    "title": "Après Saumos : réparation des camions de pompiers",
+    "url": "https://www.lefigaro.fr/bordeaux/apres-le-megafeu-de-saumos-la-bataille-des-mecaniciens-pour-sauver-les-camions-de-pompiers-20260921",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-24T12:00:00+02:00",
+    "title": "Incendie de Saumos : plaintes de particuliers",
+    "url": "https://www.lefigaro.fr/bordeaux/nous-sommes-a-la-recherche-de-la-verite-des-dizaines-de-plaintes-deposees-par-des-particuliers-apres-le-megafeu-de-saumos-20260924",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "justice-securite"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-25T12:00:00+02:00",
+    "title": "Pare-feu du Cap Ferret : réponse de Benoît Bartherotte aux plaintes",
+    "url": "https://www.lefigaro.fr/bordeaux/si-le-feu-n-avait-pas-tourne-nous-etions-cuits-vise-par-deux-plaintes-pour-son-pare-feu-au-cap-ferret-benoit-bartherotte-contre-attaque-20260925",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "justice-securite"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-28T12:00:00+02:00",
+    "title": "Extinction du mégafeu de Saumos",
+    "url": "https://www.lefigaro.fr/bordeaux/apres-deux-mois-d-enfer-le-megafeu-de-saumos-est-enfin-eteint-20260928",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement"
+  },
+  {
+    "source_id": "le-figaro",
+    "published_at": "2026-09-13T12:00:00+02:00",
+    "title": "Cap-Ferret : litige autour d’une villa donnée et de fonds retirés",
+    "url": "https://immobilier.lefigaro.fr/articles/3750-donation-assurance-vie/",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "justice-securite"
+  },
+  {
+    "source_id": "20minutes",
+    "published_at": "2026-09-23T12:00:00+02:00",
+    "title": "Le Porge : objectif de reconstruction en trois ans maximum",
+    "url": "https://www.20minutes.fr/societe/4248177-20260923-incendies-gironde-ministre-veut-reconstruire-plus-vite-dame-paris-trois-ans-maximum",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "reconstruction-vie-publique"
+  },
+  {
+    "source_id": "20minutes",
+    "published_at": "2026-09-29T12:00:00+02:00",
+    "title": "Saumos : le mégafeu de Gironde officiellement éteint",
+    "url": "https://www.20minutes.fr/societe/4249611-20260929-incendie-megafeu-ravage-gironde-officiellement-eteint",
+    "verification": "reference_manually_reviewed",
+    "publication_time_precision": "day",
+    "theme": "environnement",
+    "topic_id": "saumos-extinction"
+  }
+]

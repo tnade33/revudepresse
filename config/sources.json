@@ -1,0 +1,588 @@
+{
+  "schema_version": 1,
+  "user_agent": "RevuePresseBassin/1.0 (+https://tvcapferret.com/)",
+  "timeout_seconds": 20,
+  "sources": [
+    {
+      "id": "sud-ouest",
+      "name": "Sud Ouest",
+      "domains": [
+        "sudouest.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.sudouest.fr/essentiel/rss.xml",
+        "https://www.sudouest.fr/gironde/rss.xml",
+        "https://www.sudouest.fr/gironde/arcachon/rss.xml",
+        "https://www.sudouest.fr/economie/rss.xml",
+        "https://www.sudouest.fr/sport/rss.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "depeche-bassin",
+      "name": "La Dépêche du Bassin",
+      "domains": [
+        "ladepechedubassin.fr",
+        "ladepechedubassin.com"
+      ],
+      "local": true,
+      "feeds": [
+        "https://www.ladepechedubassin.fr/feed/"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "infobassin",
+      "name": "InfoBassin",
+      "domains": [
+        "infobassin.com"
+      ],
+      "local": true,
+      "feeds": [
+        "https://www.infobassin.com/feed/"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "tvcapferret",
+      "name": "TVCapFerret",
+      "domains": [
+        "tvcapferret.com"
+      ],
+      "local": true,
+      "feeds": [
+        "https://tvcapferret.com/feed/"
+      ],
+      "enabled": true,
+      "exclude_paths": [
+        "/evenement/"
+      ]
+    },
+    {
+      "id": "le-monde",
+      "name": "Le Monde",
+      "domains": [
+        "lemonde.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.lemonde.fr/rss/une.xml",
+        "https://www.lemonde.fr/politique/rss_full.xml",
+        "https://www.lemonde.fr/international/rss_full.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "le-figaro",
+      "name": "Le Figaro",
+      "domains": [
+        "lefigaro.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "https://www.lefigaro.fr/rss/figaro_flash-actu.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "20minutes",
+      "name": "20 Minutes",
+      "domains": [
+        "20minutes.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.20minutes.fr/feeds/rss-une.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "liberation",
+      "name": "Libération",
+      "domains": [
+        "liberation.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.liberation.fr/arc/outboundfeeds/rss-all/",
+        "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "la-croix",
+      "name": "La Croix",
+      "domains": [
+        "la-croix.com"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.la-croix.com/RSS/UNIVERS.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "humanite",
+      "name": "L’Humanité",
+      "domains": [
+        "humanite.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.humanite.fr/feed"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "les-echos",
+      "name": "Les Échos",
+      "domains": [
+        "lesechos.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://services.lesechos.fr/rss/les-echos-politique.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "la-tribune",
+      "name": "La Tribune",
+      "domains": [
+        "latribune.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.latribune.fr/feed.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "challenges",
+      "name": "Challenges",
+      "domains": [
+        "challenges.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.challenges.fr/economie/rss.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "capital",
+      "name": "Capital",
+      "domains": [
+        "capital.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://feed.prismamediadigital.com/v1/cap/rss"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "mediapart",
+      "name": "Mediapart",
+      "domains": [
+        "mediapart.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.mediapart.fr/articles/feed"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "franceinfo",
+      "name": "Franceinfo",
+      "domains": [
+        "francetvinfo.fr",
+        "franceinfo.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.francetvinfo.fr/titres.rss"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "courrier-international",
+      "name": "Courrier international",
+      "domains": [
+        "courrierinternational.com"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.courrierinternational.com/feed/all/rss.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "ouest-france",
+      "name": "Ouest-France",
+      "domains": [
+        "ouest-france.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.ouest-france.fr/rss/une"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "le-progres",
+      "name": "Le Progrès",
+      "domains": [
+        "leprogres.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.leprogres.fr/rss"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    },
+    {
+      "id": "lequipe",
+      "name": "L’Équipe",
+      "domains": [
+        "lequipe.fr"
+      ],
+      "local": false,
+      "feeds": [
+        "https://www.lequipe.fr/rss/actu_rss.xml"
+      ],
+      "enabled": true,
+      "exclude_paths": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Arcachon",
+      "aliases": [
+        "Arcachon"
+      ]
+    },
+    {
+      "name": "Lège-Cap Ferret",
+      "aliases": [
+        "Lège-Cap Ferret",
+        "Lège-Cap-Ferret",
+        "Cap Ferret",
+        "Cap-Ferret",
+        "Claouey",
+        "Grand Crohot"
+      ]
+    },
+    {
+      "name": "Andernos-les-Bains",
+      "aliases": [
+        "Andernos",
+        "Andernos-les-Bains"
+      ]
+    },
+    {
+      "name": "Arès",
+      "aliases": [
+        "Arès"
+      ]
+    },
+    {
+      "name": "Gujan-Mestras",
+      "aliases": [
+        "Gujan",
+        "Gujan-Mestras"
+      ]
+    },
+    {
+      "name": "La Teste-de-Buch",
+      "aliases": [
+        "La Teste",
+        "La Teste-de-Buch",
+        "Cazaux",
+        "Pyla-sur-Mer"
+      ]
+    },
+    {
+      "name": "Le Teich",
+      "aliases": [
+        "Le Teich"
+      ]
+    },
+    {
+      "name": "Biganos",
+      "aliases": [
+        "Biganos"
+      ]
+    },
+    {
+      "name": "Audenge",
+      "aliases": [
+        "Audenge"
+      ]
+    },
+    {
+      "name": "Lanton",
+      "aliases": [
+        "Lanton",
+        "Taussat",
+        "Cassy"
+      ]
+    },
+    {
+      "name": "Le Porge",
+      "aliases": [
+        "Le Porge"
+      ]
+    },
+    {
+      "name": "Saumos",
+      "aliases": [
+        "Saumos"
+      ]
+    },
+    {
+      "name": "Salles",
+      "aliases": [
+        "Salles"
+      ]
+    },
+    {
+      "name": "Mios",
+      "aliases": [
+        "Mios"
+      ]
+    },
+    {
+      "name": "Marcheprime",
+      "aliases": [
+        "Marcheprime"
+      ]
+    },
+    {
+      "name": "Le Barp",
+      "aliases": [
+        "Le Barp"
+      ]
+    },
+    {
+      "name": "Belin-Béliet",
+      "aliases": [
+        "Belin-Béliet"
+      ]
+    }
+  ],
+  "territory_terms": [
+    "Bassin d’Arcachon",
+    "Arcachon",
+    "Cap Ferret",
+    "Cap-Ferret",
+    "Lège-Cap Ferret",
+    "Lège-Cap-Ferret",
+    "Andernos",
+    "Gujan",
+    "La Teste-de-Buch",
+    "La Teste",
+    "Le Teich",
+    "Biganos",
+    "Audenge",
+    "Lanton",
+    "Le Porge",
+    "Saumos",
+    "dune du Pilat",
+    "dune du Pyla",
+    "Val de l’Eyre",
+    "Mios",
+    "Marcheprime",
+    "Belin-Béliet",
+    "Le Barp"
+  ],
+  "themes": [
+    {
+      "id": "justice-securite",
+      "label": "Justice et sécurité",
+      "keywords": [
+        "plainte",
+        "plaintes",
+        "parquet",
+        "justice",
+        "tribunal",
+        "navigation",
+        "sécurité maritime",
+        "pare-feu",
+        "pare feu"
+      ]
+    },
+    {
+      "id": "reconstruction-vie-publique",
+      "label": "Reconstruction et vie publique",
+      "keywords": [
+        "reconstruction",
+        "reconstruire",
+        "gouvernance",
+        "conseil municipal",
+        "municipales",
+        "sénateur",
+        "sénateurs"
+      ]
+    },
+    {
+      "id": "cinema-tournages",
+      "label": "Cinéma et tournages",
+      "keywords": [
+        "netflix",
+        "casting",
+        "tournage",
+        "tournages",
+        "figurants"
+      ]
+    },
+    {
+      "id": "urbanisme",
+      "label": "Urbanisme et aménagement",
+      "keywords": [
+        "urbanisme",
+        "aménagement",
+        "jetée",
+        "habitat",
+        "habiter",
+        "chantier",
+        "chantiers"
+      ]
+    },
+    {
+      "id": "environnement",
+      "label": "Environnement et incendies",
+      "keywords": [
+        "incendie",
+        "incendies",
+        "mégafeu",
+        "feu",
+        "forêt",
+        "forêts",
+        "inondation",
+        "inondations",
+        "eau",
+        "climat",
+        "pompiers",
+        "saumos"
+      ]
+    },
+    {
+      "id": "associations-sport",
+      "label": "Associations et sport",
+      "keywords": [
+        "association",
+        "associations",
+        "rugby",
+        "football",
+        "hockey",
+        "sport",
+        "sportif",
+        "jeunesse"
+      ]
+    },
+    {
+      "id": "economie",
+      "label": "Économie et entreprises",
+      "keywords": [
+        "entreprise",
+        "entreprises",
+        "menuiserie",
+        "commerce",
+        "commerces",
+        "économie",
+        "emploi"
+      ]
+    },
+    {
+      "id": "culture-sorties",
+      "label": "Culture, patrimoine et sorties",
+      "keywords": [
+        "sortie",
+        "sorties",
+        "festival",
+        "concert",
+        "concerts",
+        "patrimoine",
+        "histoire",
+        "dufaux",
+        "exposition",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "vie-locale",
+      "label": "Vie locale",
+      "keywords": [
+        "vie locale"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "saumos-extinction",
+      "label": "Extinction de l’incendie de Saumos",
+      "all_groups": [
+        [
+          "Saumos",
+          "mégafeu"
+        ],
+        [
+          "éteint",
+          "extinction"
+        ]
+      ]
+    },
+    {
+      "id": "pare-feu-cap-ferret",
+      "label": "Le pare-feu du Cap Ferret",
+      "all_groups": [
+        [
+          "Cap Ferret",
+          "Cap-Ferret",
+          "Bartherotte"
+        ],
+        [
+          "pare-feu",
+          "pare feu"
+        ]
+      ]
+    },
+    {
+      "id": "netflix-bassin",
+      "label": "La série Netflix sur le Bassin",
+      "all_groups": [
+        [
+          "Netflix"
+        ],
+        [
+          "casting",
+          "tournage",
+          "figurants"
+        ]
+      ]
+    }
+  ],
+  "excluded_article_ids": []
+}

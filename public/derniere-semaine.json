@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T11:27:37+02:00",
+  "timezone": "Europe/Paris",
+  "period": {
+    "id": "latest-complete-week",
+    "label": "Dernière semaine complète",
+    "start": "2026-09-28",
+    "end": "2026-10-04",
+    "url": "derniere-semaine.json",
+    "article_count": 12
+  },
+  "themes": [
+    {
+      "id": "justice-securite",
+      "label": "Justice et sécurité"
+    },
+    {
+      "id": "reconstruction-vie-publique",
+      "label": "Reconstruction et vie publique"
+    },
+    {
+      "id": "cinema-tournages",
+      "label": "Cinéma et tournages"
+    },
+    {
+      "id": "urbanisme",
+      "label": "Urbanisme et aménagement"
+    },
+    {
+      "id": "environnement",
+      "label": "Environnement et incendies"
+    },
+    {
+      "id": "associations-sport",
+      "label": "Associations et sport"
+    },
+    {
+      "id": "economie",
+      "label": "Économie et entreprises"
+    },
+    {
+      "id": "culture-sorties",
+      "label": "Culture, patrimoine et sorties"
+    },
+    {
+      "id": "vie-locale",
+      "label": "Vie locale"
+    }
+  ],
+  "topics": [
+    {
+      "id": "saumos-extinction",
+      "label": "Extinction de l’incendie de Saumos"
+    },
+    {
+      "id": "pare-feu-cap-ferret",
+      "label": "Le pare-feu du Cap Ferret"
+    },
+    {
+      "id": "netflix-bassin",
+      "label": "La série Netflix sur le Bassin"
+    }
+  ],
+  "articles": [
+    {
+      "id": "7098f2a5b63691443b5a08ce",
+      "title": "Histoire du Bassin: Hydravion au Cap Ferret",
+      "url": "https://www.infobassin.com/histoire-hydravion/",
+      "source_id": "infobassin",
+      "source_name": "InfoBassin",
+      "published_at": "2026-10-04T06:45:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-10-04",
+      "theme": "culture-sorties",
+      "places": [
+        "Arcachon",
+        "Lège-Cap Ferret"
+      ],
+      "topic_id": null,
+      "description": "Histoire du Bassin d’Arcachon : En 1929, une école d’hydravion ferme ses portes, pour cause… de nuisances sonores! 03/10/26 Le Bassin est riche de son Histoire. Pendant plusieurs semaines, elle vous sera contée au travers du livre « Une année sur le Bassin d’Arcachon… en 365 aquarelles et 365 histoires » d’Isabelle Antonutti et Michel […] The post Histoire du Bassin: Hydravion au Cap Ferret first appeared on InfoBassin.",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    },
+    {
+      "id": "af50be003354dd5a2d7139cb",
+      "title": "Cinéma Andernos, Biganos, Gujan-Mestras, La Teste, Arcachon",
+      "url": "https://www.infobassin.com/cinema-26-10-02/",
+      "source_id": "infobassin",
+      "source_name": "InfoBassin",
+      "published_at": "2026-10-02T12:15:22+02:00",
+      "modified_at": null,
+      "publication_date": "2026-10-02",
+      "theme": "vie-locale",
+      "places": [
+        "Arcachon",
+        "Andernos-les-Bains",
+        "Gujan-Mestras",
+        "La Teste-de-Buch",
+        "Biganos",
+        "Salles"
+      ],
+      "topic_id": null,
+      "description": "Cinéma… L’actu ciné, les programmes et tous les films sur le Bassin d’Arcachon dans les salles de cinéma d’ Andernos, Biganos, Gujan-Mestras, La Teste-de-buch, Arcachon. Les salles de cinéma du Bassin d’Arcachon Retrouvez votre film préféré en cliquant sur le cinéma de votre choix… Vous y trouverez les événements et les horaires à venir: Andernos […] The post Cinéma Andernos, Biganos, Gujan-Mestras, La Teste, Arcachon first appeared on…",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    },
+    {
+      "id": "894c7ec7f39af3e555ccebae",
+      "title": "Infos, sorties de la semaine sur le Bassin du 1/10",
+      "url": "https://www.infobassin.com/infos-26-10-02/",
+      "source_id": "infobassin",
+      "source_name": "InfoBassin",
+      "published_at": "2026-10-02T06:45:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-10-02",
+      "theme": "reconstruction-vie-publique",
+      "places": [
+        "Arcachon"
+      ],
+      "topic_id": null,
+      "description": "Actu! Restrictions d’eau sur l’est du Bassin; Anomalies dans les contrôles estivaux; De nouveaux sénateurs; D’autres infos et les sorties du WE… 1/10/26 Bassin d’Arcachon Restrictions d’eau : le secteur Côtiers Est placé en crise La préfecture de Gironde a placé le bassin versant des Côtiers Est Bassin Arcachon en niveau « crise », entraînant des restrictions […] The post Infos, sorties de la semaine sur le Bassin du 1/10 first appeared on…",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    },
+    {
+      "id": "da1839951bb8ce91d6eb177c",
+      "title": "Sud Bassin : préparation d’un pacte de gouvernance",
+      "url": "https://www.sudouest.fr/gironde/arcachon/chacun-a-sa-place-un-pacte-de-gouvernance-sur-les-rails-dans-l-agglomeration-sud-bassin-30748848.php",
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "published_at": "2026-09-30T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-30",
+      "theme": "reconstruction-vie-publique",
+      "places": [],
+      "topic_id": null,
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "a62f2d97ab6c3d7c1659cd4f",
+      "title": "Lège-Cap Ferret : les 90 ans de la menuiserie Castillon",
+      "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-l-entreprise-familiale-de-menuiserie-castillon-fete-ses-90-ans-d-existence-30838151.php",
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "published_at": "2026-09-30T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-30",
+      "theme": "economie",
+      "places": [
+        "Lège-Cap Ferret"
+      ],
+      "topic_id": null,
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "495955c5f6ccf1d6bae8c178",
+      "title": "Idées de sorties du 2 au 4 octobre",
+      "url": "https://tvcapferret.com/que-faire-sur-le-bassin-darcachon-du-02-au-04-octobre-2026/",
+      "source_id": "tvcapferret",
+      "source_name": "TVCapFerret",
+      "published_at": "2026-09-30T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-30",
+      "theme": "culture-sorties",
+      "places": [],
+      "topic_id": null,
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "c855deedae8af3f0bf9bbb5d",
+      "title": "Arès : la Maison de la jeunesse et les attentes des familles",
+      "url": "https://www.sudouest.fr/gironde/ares/ares-la-maison-de-la-jeunesse-repond-a-une-forte-attente-des-familles-30802775.php",
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "published_at": "2026-09-29T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-29",
+      "theme": "associations-sport",
+      "places": [
+        "Arès"
+      ],
+      "topic_id": null,
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "50a40169454f06615116d6de",
+      "title": "Saumos : le mégafeu de Gironde officiellement éteint",
+      "url": "https://www.20minutes.fr/societe/4249611-20260929-incendie-megafeu-ravage-gironde-officiellement-eteint",
+      "source_id": "20minutes",
+      "source_name": "20 Minutes",
+      "published_at": "2026-09-29T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-29",
+      "theme": "environnement",
+      "places": [
+        "Saumos"
+      ],
+      "topic_id": "saumos-extinction",
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "4b1c444dc09004d483709d9e",
+      "title": "Lège-Cap Ferret : exposition sur l’habitat et les défis climatiques",
+      "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-habiter-ici-une-exposition-pour-penser-le-territoire-de-demain-face-aux-defis-climatiques-30815570.php",
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "published_at": "2026-09-29T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-29",
+      "theme": "urbanisme",
+      "places": [
+        "Lège-Cap Ferret"
+      ],
+      "topic_id": null,
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "dcd71dcf19decb811861de2c",
+      "title": "Extinction du mégafeu de Saumos",
+      "url": "https://www.lefigaro.fr/bordeaux/apres-deux-mois-d-enfer-le-megafeu-de-saumos-est-enfin-eteint-20260928",
+      "source_id": "le-figaro",
+      "source_name": "Le Figaro",
+      "published_at": "2026-09-28T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-28",
+      "theme": "environnement",
+      "places": [
+        "Saumos"
+      ],
+      "topic_id": "saumos-extinction",
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "70763e5e00772b5d5f8742a8",
+      "title": "Saumos : extinction officielle de l’incendie",
+      "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-de-saumos-le-feu-est-officiellement-eteint-apres-avoir-detruit-37-296-hectares-30825152.php",
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "published_at": "2026-09-28T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-28",
+      "theme": "environnement",
+      "places": [
+        "Saumos"
+      ],
+      "topic_id": "saumos-extinction",
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    },
+    {
+      "id": "6459ef7f2f5bbd017c04d1fc",
+      "title": "Festival Cadences : la jeunesse et la danse sur le Bassin",
+      "url": "https://www.sudouest.fr/gironde/arcachon/festival-cadences-sur-le-bassin-d-arcachon-la-jeunesse-en-danse-30733641.php",
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "published_at": "2026-09-28T12:00:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-09-28",
+      "theme": "culture-sorties",
+      "places": [],
+      "topic_id": null,
+      "description": "",
+      "description_origin": null,
+      "verification": "reference_manually_reviewed",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00",
+      "editorial_override": true,
+      "title_origin": "editorial_abbreviation",
+      "publication_time_precision": "day"
+    }
+  ]
+}

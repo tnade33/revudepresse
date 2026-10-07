@@ -1,0 +1,421 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T11:27:37+02:00",
+  "timezone": "Europe/Paris",
+  "default_period": "latest-complete-week",
+  "coverage_note": "Sélection non exhaustive. Les flux ne permettent pas une reconstitution historique complète.",
+  "curated_note": "Les références de septembre 2026 sont une sélection initiale partielle, aux titres abrégés.",
+  "sources": [
+    {
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "feed_url": "https://www.sudouest.fr/essentiel/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "feed_url": "https://www.sudouest.fr/gironde/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "feed_url": "https://www.sudouest.fr/gironde/arcachon/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "feed_url": "https://www.sudouest.fr/economie/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "sud-ouest",
+      "source_name": "Sud Ouest",
+      "feed_url": "https://www.sudouest.fr/sport/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "depeche-bassin",
+      "source_name": "La Dépêche du Bassin",
+      "feed_url": "https://www.ladepechedubassin.fr/feed/",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "infobassin",
+      "source_name": "InfoBassin",
+      "feed_url": "https://www.infobassin.com/feed/",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 10,
+      "articles_selected": 10,
+      "skipped": {}
+    },
+    {
+      "source_id": "tvcapferret",
+      "source_name": "TVCapFerret",
+      "feed_url": "https://tvcapferret.com/feed/",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 10,
+      "articles_selected": 10,
+      "skipped": {}
+    },
+    {
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "feed_url": "https://www.lemonde.fr/rss/une.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 16,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 16
+      }
+    },
+    {
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "feed_url": "https://www.lemonde.fr/politique/rss_full.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "feed_url": "https://www.lemonde.fr/international/rss_full.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "le-figaro",
+      "source_name": "Le Figaro",
+      "feed_url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "le-figaro",
+      "source_name": "Le Figaro",
+      "feed_url": "https://www.lefigaro.fr/rss/figaro_flash-actu.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "20minutes",
+      "source_name": "20 Minutes",
+      "feed_url": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 30,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 30
+      }
+    },
+    {
+      "source_id": "liberation",
+      "source_name": "Libération",
+      "feed_url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "liberation",
+      "source_name": "Libération",
+      "feed_url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "la-croix",
+      "source_name": "La Croix",
+      "feed_url": "https://www.la-croix.com/RSS/UNIVERS.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "humanite",
+      "source_name": "L’Humanité",
+      "feed_url": "https://www.humanite.fr/feed",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "les-echos",
+      "source_name": "Les Échos",
+      "feed_url": "https://services.lesechos.fr/rss/les-echos-politique.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "la-tribune",
+      "source_name": "La Tribune",
+      "feed_url": "https://www.latribune.fr/feed.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "challenges",
+      "source_name": "Challenges",
+      "feed_url": "https://www.challenges.fr/economie/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "capital",
+      "source_name": "Capital",
+      "feed_url": "https://feed.prismamediadigital.com/v1/cap/rss",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 10,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 10
+      }
+    },
+    {
+      "source_id": "mediapart",
+      "source_name": "Mediapart",
+      "feed_url": "https://www.mediapart.fr/articles/feed",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 10,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 10
+      }
+    },
+    {
+      "source_id": "franceinfo",
+      "source_name": "Franceinfo",
+      "feed_url": "https://www.francetvinfo.fr/titres.rss",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": ""
+    },
+    {
+      "source_id": "courrier-international",
+      "source_name": "Courrier international",
+      "feed_url": "https://www.courrierinternational.com/feed/all/rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "ouest-france",
+      "source_name": "Ouest-France",
+      "feed_url": "https://www.ouest-france.fr/rss/une",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "Réponse non RSS/Atom"
+    },
+    {
+      "source_id": "le-progres",
+      "source_name": "Le Progrès",
+      "feed_url": "https://www.leprogres.fr/rss",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "ok",
+      "items_seen": 20,
+      "articles_selected": 0,
+      "skipped": {
+        "outside_territory": 20
+      }
+    },
+    {
+      "source_id": "lequipe",
+      "source_name": "L’Équipe",
+      "feed_url": "https://www.lequipe.fr/rss/actu_rss.xml",
+      "checked_at": "2026-10-07T11:27:37+02:00",
+      "status": "error",
+      "items_seen": 0,
+      "articles_selected": 0,
+      "skipped": {},
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "themes": [
+    {
+      "id": "justice-securite",
+      "label": "Justice et sécurité"
+    },
+    {
+      "id": "reconstruction-vie-publique",
+      "label": "Reconstruction et vie publique"
+    },
+    {
+      "id": "cinema-tournages",
+      "label": "Cinéma et tournages"
+    },
+    {
+      "id": "urbanisme",
+      "label": "Urbanisme et aménagement"
+    },
+    {
+      "id": "environnement",
+      "label": "Environnement et incendies"
+    },
+    {
+      "id": "associations-sport",
+      "label": "Associations et sport"
+    },
+    {
+      "id": "economie",
+      "label": "Économie et entreprises"
+    },
+    {
+      "id": "culture-sorties",
+      "label": "Culture, patrimoine et sorties"
+    },
+    {
+      "id": "vie-locale",
+      "label": "Vie locale"
+    }
+  ],
+  "topics": [
+    {
+      "id": "saumos-extinction",
+      "label": "Extinction de l’incendie de Saumos"
+    },
+    {
+      "id": "pare-feu-cap-ferret",
+      "label": "Le pare-feu du Cap Ferret"
+    },
+    {
+      "id": "netflix-bassin",
+      "label": "La série Netflix sur le Bassin"
+    }
+  ],
+  "periods": [
+    {
+      "id": "latest-complete-week",
+      "label": "Dernière semaine complète",
+      "start": "2026-09-28",
+      "end": "2026-10-04",
+      "url": "derniere-semaine.json",
+      "article_count": 12
+    },
+    {
+      "id": "current-week",
+      "label": "Semaine en cours",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "url": "semaine-courante.json",
+      "article_count": 3
+    },
+    {
+      "id": "2026-10",
+      "label": "2026-10",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "url": "mois/2026-10.json",
+      "article_count": 6
+    },
+    {
+      "id": "2026-09",
+      "label": "2026-09",
+      "start": "2026-09-01",
+      "end": "2026-09-30",
+      "url": "mois/2026-09.json",
+      "article_count": 32
+    },
+    {
+      "id": "2026-08",
+      "label": "2026-08",
+      "start": "2026-08-01",
+      "end": "2026-08-31",
+      "url": "mois/2026-08.json",
+      "article_count": 2
+    }
+  ]
+}

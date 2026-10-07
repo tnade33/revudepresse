@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T11:27:37+02:00",
+  "timezone": "Europe/Paris",
+  "period": {
+    "id": "2026-08",
+    "label": "2026-08",
+    "start": "2026-08-01",
+    "end": "2026-08-31",
+    "url": "mois/2026-08.json",
+    "article_count": 2
+  },
+  "themes": [
+    {
+      "id": "justice-securite",
+      "label": "Justice et sécurité"
+    },
+    {
+      "id": "reconstruction-vie-publique",
+      "label": "Reconstruction et vie publique"
+    },
+    {
+      "id": "cinema-tournages",
+      "label": "Cinéma et tournages"
+    },
+    {
+      "id": "urbanisme",
+      "label": "Urbanisme et aménagement"
+    },
+    {
+      "id": "environnement",
+      "label": "Environnement et incendies"
+    },
+    {
+      "id": "associations-sport",
+      "label": "Associations et sport"
+    },
+    {
+      "id": "economie",
+      "label": "Économie et entreprises"
+    },
+    {
+      "id": "culture-sorties",
+      "label": "Culture, patrimoine et sorties"
+    },
+    {
+      "id": "vie-locale",
+      "label": "Vie locale"
+    }
+  ],
+  "topics": [
+    {
+      "id": "saumos-extinction",
+      "label": "Extinction de l’incendie de Saumos"
+    },
+    {
+      "id": "pare-feu-cap-ferret",
+      "label": "Le pare-feu du Cap Ferret"
+    },
+    {
+      "id": "netflix-bassin",
+      "label": "La série Netflix sur le Bassin"
+    }
+  ],
+  "articles": [
+    {
+      "id": "6738fbf16f3b42834bf2fb6e",
+      "title": "Florian Grill à Lège-Cap Ferret : « Le rugby transforme les personnes »",
+      "url": "https://tvcapferret.com/florian-grill-ffr-rugby-lege-cap-ferret/",
+      "source_id": "tvcapferret",
+      "source_name": "TVCapFerret",
+      "published_at": "2026-08-31T18:05:37+02:00",
+      "modified_at": null,
+      "publication_date": "2026-08-31",
+      "theme": "associations-sport",
+      "places": [
+        "Lège-Cap Ferret"
+      ],
+      "topic_id": null,
+      "description": "Le président de la FFR, Florian Grill, a rencontré les dirigeants et bénévoles du Rugby Club Lège‑Cap Ferret. Une visite consacrée à la solidarité, au rugby santé, au développement de la pratique féminine et à l’avenir du club. L’article Florian Grill à Lège-Cap Ferret : « Le rugby transforme les personnes » est apparu en premier sur TV CAP FERRET.",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    },
+    {
+      "id": "5bbfebd98a96970d12393e7b",
+      "title": "Le Cap Ferret en 1965 : Histoire, Ostréiculture, Pétrole & Villa Algérienne",
+      "url": "https://tvcapferret.com/le-cap-ferret-en-1965/",
+      "source_id": "tvcapferret",
+      "source_name": "TVCapFerret",
+      "published_at": "2026-08-25T18:18:49+02:00",
+      "modified_at": null,
+      "publication_date": "2026-08-25",
+      "theme": "culture-sorties",
+      "places": [
+        "Arcachon",
+        "Lège-Cap Ferret"
+      ],
+      "topic_id": null,
+      "description": "À quoi ressemblait le Cap Ferret en 1965 ? Entre préservation ostréicole, fronde contre les forages pétroliers, essor des vacances populaires et dernières heures de la Villa Algérienne, retour en archives et en vidéo sur une année charnière pour le Bassin d'Arcachon. L’article Le Cap Ferret en 1965 : Histoire, Ostréiculture, Pétrole & Villa Algérienne est apparu en premier sur TV CAP FERRET.",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    }
+  ]
+}

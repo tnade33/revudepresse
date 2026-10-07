@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T11:27:37+02:00",
+  "timezone": "Europe/Paris",
+  "period": {
+    "id": "current-week",
+    "label": "Semaine en cours",
+    "start": "2026-10-05",
+    "end": "2026-10-11",
+    "url": "semaine-courante.json",
+    "article_count": 3
+  },
+  "themes": [
+    {
+      "id": "justice-securite",
+      "label": "Justice et sécurité"
+    },
+    {
+      "id": "reconstruction-vie-publique",
+      "label": "Reconstruction et vie publique"
+    },
+    {
+      "id": "cinema-tournages",
+      "label": "Cinéma et tournages"
+    },
+    {
+      "id": "urbanisme",
+      "label": "Urbanisme et aménagement"
+    },
+    {
+      "id": "environnement",
+      "label": "Environnement et incendies"
+    },
+    {
+      "id": "associations-sport",
+      "label": "Associations et sport"
+    },
+    {
+      "id": "economie",
+      "label": "Économie et entreprises"
+    },
+    {
+      "id": "culture-sorties",
+      "label": "Culture, patrimoine et sorties"
+    },
+    {
+      "id": "vie-locale",
+      "label": "Vie locale"
+    }
+  ],
+  "topics": [
+    {
+      "id": "saumos-extinction",
+      "label": "Extinction de l’incendie de Saumos"
+    },
+    {
+      "id": "pare-feu-cap-ferret",
+      "label": "Le pare-feu du Cap Ferret"
+    },
+    {
+      "id": "netflix-bassin",
+      "label": "La série Netflix sur le Bassin"
+    }
+  ],
+  "articles": [
+    {
+      "id": "d30b64af0283eee462b0d073",
+      "title": "Des livres d’ici à emporter sous la couette…",
+      "url": "https://www.infobassin.com/livres-10-26/",
+      "source_id": "infobassin",
+      "source_name": "InfoBassin",
+      "published_at": "2026-10-07T06:45:00+02:00",
+      "modified_at": null,
+      "publication_date": "2026-10-07",
+      "theme": "culture-sorties",
+      "places": [],
+      "topic_id": null,
+      "description": "Des livres régionaux: L'histoire des feux sur le Bassin; Une bio aux multiples visages; Un roman réconfortant; Un recueil naturo-patrimonial... The post Des livres d’ici à emporter sous la couette… first appeared on InfoBassin.",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    },
+    {
+      "id": "dc3b5d481b6b474667e1500c",
+      "title": "Que faire sur le Bassin d’Arcachon du 9 au 11 octobre 2026 ?",
+      "url": "https://tvcapferret.com/sorties-bassin-arcachon-week-end-9-11-octobre-2026/",
+      "source_id": "tvcapferret",
+      "source_name": "TVCapFerret",
+      "published_at": "2026-10-06T21:28:45+02:00",
+      "modified_at": null,
+      "publication_date": "2026-10-06",
+      "theme": "environnement",
+      "places": [
+        "Arcachon",
+        "Lège-Cap Ferret",
+        "Arès"
+      ],
+      "topic_id": null,
+      "description": "À Arès, le week-end du 9 au 11 octobre s’annonce animé : spectacle de danse gratuit Crossing, fête de la jeunesse avec cirque et feu d’artifice, exposition d’orchidées et de plantes carnivores. Retrouvez notre sélection, les marchés, le cinéma et la carte des sorties du Bassin d’Arcachon. L’article Que faire sur le Bassin d’Arcachon du 9 au 11 octobre 2026 ? est apparu en premier sur TV CAP FERRET.",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    },
+    {
+      "id": "f849e97fa7011ad42e3879d4",
+      "title": "Rugby féminin Lège-Cap Ferret : premier match, première victoire !",
+      "url": "https://tvcapferret.com/rugby-feminin-lege-cap-ferret-premier-match/",
+      "source_id": "tvcapferret",
+      "source_name": "TVCapFerret",
+      "published_at": "2026-10-05T17:15:59+02:00",
+      "modified_at": null,
+      "publication_date": "2026-10-05",
+      "theme": "associations-sport",
+      "places": [
+        "Lège-Cap Ferret"
+      ],
+      "topic_id": null,
+      "description": "Les féminines du RC Lège-Cap Ferret remportent leur premier match officiel, 50 à 10 face aux Jalloises, le 4 octobre au stade Sésostris. Retrouvez les meilleurs moments en vidéo, les règles du rugby à dix et le suivi du championnat. L’article Rugby féminin Lège-Cap Ferret : premier match, première victoire ! est apparu en premier sur TV CAP FERRET.",
+      "description_origin": "rss",
+      "verification": "rss_notice",
+      "first_seen_at": "2026-10-07T11:27:37+02:00",
+      "last_seen_at": "2026-10-07T11:27:37+02:00"
+    }
+  ]
+}
