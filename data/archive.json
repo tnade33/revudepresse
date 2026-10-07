@@ -15,7 +15,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "7098f2a5b63691443b5a08ce": {
     "id": "7098f2a5b63691443b5a08ce",
@@ -36,7 +36,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "af50be003354dd5a2d7139cb": {
     "id": "af50be003354dd5a2d7139cb",
@@ -61,7 +61,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "894c7ec7f39af3e555ccebae": {
     "id": "894c7ec7f39af3e555ccebae",
@@ -81,7 +81,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "8f912b28e4e08d109f548aa7": {
     "id": "8f912b28e4e08d109f548aa7",
@@ -99,7 +99,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "a6a4fb443b79506542954d58": {
     "id": "a6a4fb443b79506542954d58",
@@ -228,7 +228,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "f849e97fa7011ad42e3879d4": {
     "id": "f849e97fa7011ad42e3879d4",
@@ -248,7 +248,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "495955c5f6ccf1d6bae8c178": {
     "id": "495955c5f6ccf1d6bae8c178",
@@ -399,7 +399,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "5bbfebd98a96970d12393e7b": {
     "id": "5bbfebd98a96970d12393e7b",
@@ -420,7 +420,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-07T11:27:37+02:00"
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   },
   "70763e5e00772b5d5f8742a8": {
     "id": "70763e5e00772b5d5f8742a8",
@@ -871,5 +871,349 @@
     "editorial_override": true,
     "title_origin": "editorial_abbreviation",
     "publication_time_precision": "day"
+  },
+  "b4093d6b6f4cb97192a7af65": {
+    "id": "b4093d6b6f4cb97192a7af65",
+    "title": "Journées portes ouvertes au Domaine de Certes et Graveyron à Audenge",
+    "url": "https://www.sudouest.fr/gironde/arcachon/journees-portes-ouvertes-au-domaine-de-certes-et-graveyron-a-audenge-30892134.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-07T08:39:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-07",
+    "theme": "vie-locale",
+    "places": [
+      "Audenge"
+    ],
+    "topic_id": null,
+    "description": "Du vendredi 9 octobre au 11 octobre, le Département invite le public à venir découvrir les coulisses du Domaine de Certes et Graveyron",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "1e4fe6c39877bb5458e05f79": {
+    "id": "1e4fe6c39877bb5458e05f79",
+    "title": "Lège-Cap-Ferret : plus de 250 participants mobilisés pour la marche d’Octobre rose",
+    "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-plus-de-250-participants-mobilises-pour-la-marche-d-octobre-rose-30924619.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-07T07:33:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-07",
+    "theme": "vie-locale",
+    "places": [
+      "Lège-Cap Ferret"
+    ],
+    "topic_id": null,
+    "description": "La journée de solidarité organisée ce dimanche par le Club nautique de Claouey a réuni de nombreux marcheurs et convives avant un prochain rendez-vous d’information prévu le vendredi 16 octobre",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "e299b8849a41105588f99eeb": {
+    "id": "e299b8849a41105588f99eeb",
+    "title": "La météo à Arcachon du mercredi 7 octobre 2026",
+    "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-meteo-du-mercredi-7-octobre-2026-30955533.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-07T06:30:05+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-07",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Aujourd'hui, quelques pluies diffuses feront leur arrivée.",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "743f80eba6b30fea6c9a97f7": {
+    "id": "743f80eba6b30fea6c9a97f7",
+    "title": "Bassin d’Arcachon : pour la députée, « sur l’adaptation au changement climatique, ça n’avance pas assez vite »",
+    "url": "https://www.sudouest.fr/gironde/arcachon/bassin-d-arcachon-pour-la-deputee-sur-l-adaptation-au-changement-climatique-ca-n-avance-pas-assez-vite-30939147.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-07T06:28:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-07",
+    "theme": "environnement",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Feux de forêts, adaptation au changement climatique, homicide maritime et violences sexistes et sexuelles : Sophie Panonacle, la députée Renaissance du bassin d’Arcachon, fait le point sur ses grands dossiers",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "08cc3d12dc4af30aae967fbc": {
+    "id": "08cc3d12dc4af30aae967fbc",
+    "title": "Arcachon : le professionnel Nathan Legendre remporte l’Open de golf au bout du suspense",
+    "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-le-professionnel-nathan-legendre-remporte-l-open-de-golf-au-bout-du-suspense-30924696.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T20:22:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "La 16e édition de l’Open de golf d’Arcachon s’est jouée à un coup près lors d’un final exceptionnel sur le trou n°18, où le joueur professionnel a devancé d’un point le jeune amateur de 14 ans, Alan Rode",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "46fb662e581cd3d12013ff80": {
+    "id": "46fb662e581cd3d12013ff80",
+    "title": "Gujan-Mestras : l’histoire du Cross Sud Ouest, un rendez-vous devenu incontournable, au rayonnement international",
+    "url": "https://www.sudouest.fr/sport/course-pedestre/cross-sud-ouest-de-gujan-mestras/gujan-mestras-l-histoire-du-cross-sud-ouest-un-rendez-vous-devenu-incontournable-30607837.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T20:04:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "culture-sorties",
+    "places": [
+      "Gujan-Mestras"
+    ],
+    "topic_id": null,
+    "description": "La 52e édition du Cross Sud Ouest a lieu du 27 au 29 novembre. 10 000 personnes sont attendues pour 45 courses. Retour sur l’histoire d’un événement au rayonnement national et international",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "83de1a1c7825bcea39e60f54": {
+    "id": "83de1a1c7825bcea39e60f54",
+    "title": "Arcachon : « Casse-Noisette » pour clore en beauté le Festival Cadences",
+    "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-casse-noisette-pour-clore-en-beaute-le-festival-cadences-30923811.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T18:05:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "culture-sorties",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Le festival de danse s’est achevé dimanche soir au théâtre Olympia devant une salle comble pour « Casse-Noisette ». Les organisateurs dressent un bilan très positif de cette édition éclectique qui a réuni",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "e814ae0916501947211f5410": {
+    "id": "e814ae0916501947211f5410",
+    "title": "La Teste-de-Buch : le salon Délivrées interroge les combats féministes d’hier et d’aujourd’hui",
+    "url": "https://www.sudouest.fr/gironde/la-teste-de-buch/la-teste-de-buch-le-salon-delivrees-interroge-les-combats-feministes-d-hier-et-d-aujourd-hui-30940675.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T12:38:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "associations-sport",
+    "places": [
+      "La Teste-de-Buch"
+    ],
+    "topic_id": null,
+    "description": "La seconde édition du salon des livres féministes s’est tenue sur le port ostréicole de La Teste-de-Buch. L’occasion pour l’association Femmes solidaires de rappeler la nécessité d’une vigilance constante",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "979db17b76c9fb76c855d619": {
+    "id": "979db17b76c9fb76c855d619",
+    "title": "Bassin d’Arcachon : une opération bénévole de ramassage des déchets en bord de la Leyre",
+    "url": "https://www.sudouest.fr/gironde/le-teich/bassin-d-arcachon-une-operation-benevole-de-ramassage-des-dechets-en-bord-de-la-leyre-30939637.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T12:37:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "associations-sport",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Les associations Wings of Ocean et Bassin d’Arcachon Écologie organisent un ramassage de déchets en bord de Leyre ce jeudi 8 octobre",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "d5056bab32bf5b64fa1b0943": {
+    "id": "d5056bab32bf5b64fa1b0943",
+    "title": "Bassin d’Arcachon : Olivier Laban, réélu président des ostréiculteurs, veut créer un fonds de garantie en cas de fermeture sanitaire",
+    "url": "https://www.sudouest.fr/gironde/arcachon/bassin-d-arcachon-olivier-laban-reelu-president-des-ostreiculteurs-veut-creer-un-fonds-de-garantie-en-cas-de-fermeture-sanitaire-30927626.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T12:15:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "urbanisme",
+    "places": [
+      "Arcachon",
+      "La Teste-de-Buch"
+    ],
+    "topic_id": null,
+    "description": "Olivier Laban a été réélu ce lundi président du comité régional conchylicole Arcachon-Aquitaine. Les chantiers sont nombreux : nettoyage du domaine public maritime, maline de La Teste-de-Buch, création",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "83205152d621bb43d9ac317d": {
+    "id": "83205152d621bb43d9ac317d",
+    "title": "La météo à Arcachon du mardi 6 octobre 2026",
+    "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-meteo-du-mardi-6-octobre-2026-30937134.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-06T06:30:05+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-06",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Le beau temps laissera place à un ciel voilé où des nuages s'inviteront aujourd'hui.",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "c0cf6b97965df09111368c53": {
+    "id": "c0cf6b97965df09111368c53",
+    "title": "Bassin d’Arcachon : une nouvelle pêche miraculeuse pour « Eole 3 » avec un thon de 255 kilos",
+    "url": "https://www.sudouest.fr/gironde/arcachon/bassin-d-arcachon-une-nouvelle-peche-miraculeuse-pour-eole-3-avec-un-thon-de-255-kilos-30931159.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-05T19:20:57+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-05",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Après avoir ramené mi-septembre un thon rouge de 254 kilos, l’équipage d’« Eole 3 » a débarqué à la criée d’Arcachon un thon encore plus gros : 255 kilos !",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "76280ee2c8a35995d235d050": {
+    "id": "76280ee2c8a35995d235d050",
+    "title": "Handball / Nationale 3 : Arcachon-La Teste s’impose 38 à 35 dans un derby accroché face à Pessac",
+    "url": "https://www.sudouest.fr/gironde/arcachon/handball-nationale-3-arcachon-la-teste-s-impose-38-a-35-dans-un-derby-accroche-face-a-pessac-30914619.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-05T19:20:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-05",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon",
+      "La Teste-de-Buch"
+    ],
+    "topic_id": null,
+    "description": "Après un match nul obtenu chez les Girondins de Bordeaux, le club du Bassin recevait Pessac samedi 3 octobre, dans un autre derby qui devait ou non confirmer leur bon début de saison",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "56d1bd2455a6414e2338dff0": {
+    "id": "56d1bd2455a6414e2338dff0",
+    "title": "Football / Régional 2 et 3 : un week-end placé sous le signe du match nul pour les clubs du bassin d’Arcachon",
+    "url": "https://www.sudouest.fr/sport/football-regional-2-et-3-un-week-end-place-sous-le-signe-du-match-nul-pour-les-clubs-du-bassin-d-arcachon-30917128.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-05T18:56:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-05",
+    "theme": "associations-sport",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Pour cette troisième journée des championnats régionaux, ces 3 et 4 octobre, trois résultats nuls pour les R2 et un en R3 pour deux victoires et une défaite",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "cb28670cc02694c8909ff91a": {
+    "id": "cb28670cc02694c8909ff91a",
+    "title": "Bassin d’Arcachon : une majoration de la taxe d’habitation pour les résidences secondaires à Gujan-Mestras",
+    "url": "https://www.sudouest.fr/gironde/arcachon/bassin-d-arcachaon-une-majoration-de-la-taxe-d-habitation-pour-les-residences-secondaires-a-gujan-mestras-30923893.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-05T18:44:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-05",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon",
+      "Gujan-Mestras"
+    ],
+    "topic_id": null,
+    "description": "La majorité a délibéré sur la majoration de 20 % du taux d’imposition de la taxe d’habitation sur les résidences secondaires, qui concerne 15 % des ménages de Gujan-Mestras et devrait représenter une hausse",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "5839b6ad724dc9fccf2f8093": {
+    "id": "5839b6ad724dc9fccf2f8093",
+    "title": "Blocage des lycées : les établissements Grand Air et Condorcet d’Arcachon seront fermés ce mardi 6 octobre, La Mer à Gujan-Mestras restera ouvert",
+    "url": "https://www.sudouest.fr/gironde/arcachon/blocage-des-lycees-l-etablissement-grand-air-d-arcachon-sera-ferme-ce-mardi-6-octobre-la-mer-a-gujan-mestras-et-condorcet-a-arcachon-seront-ouverts-30924400.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-05T12:01:13+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-05",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon",
+      "Gujan-Mestras"
+    ],
+    "topic_id": null,
+    "description": "Sur le sud du bassin d’Arcachon, les lycées Grand Air et Condorcet d’Arcachon seront fermés ce mardi 6 octobre, jour de mobilisation des lycéens",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
+  },
+  "65aba31d574fc542d1935bc8": {
+    "id": "65aba31d574fc542d1935bc8",
+    "title": "Bassin d’Arcachon : l’Aviron arcachonnais a fêté ses 130 ans d’existence",
+    "url": "https://www.sudouest.fr/gironde/arcachon/bassin-d-arcachon-l-aviron-arcachonnais-ses-130-ans-d-existence-30923399.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-05T12:00:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-05",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Le samedi 3 octobre, la halle des pêcheurs du port d’Arcachon a accueilli la cérémonie officielle des 130 ans de l’Aviron arcachonnais",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-07T11:44:45+02:00",
+    "last_seen_at": "2026-10-07T11:44:45+02:00"
   }
 }
