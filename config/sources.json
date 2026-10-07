@@ -158,19 +158,6 @@
       "exclude_paths": []
     },
     {
-      "id": "les-echos",
-      "name": "Les Échos",
-      "domains": [
-        "lesechos.fr"
-      ],
-      "local": false,
-      "feeds": [
-        "https://services.lesechos.fr/rss/les-echos-politique.xml"
-      ],
-      "enabled": true,
-      "exclude_paths": []
-    },
-    {
       "id": "la-tribune",
       "name": "La Tribune",
       "domains": [
