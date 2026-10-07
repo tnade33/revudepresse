@@ -79,7 +79,7 @@
       "id": "icigironde",
       "name": "Ici Gironde",
       "domains": [
-        "https://www.ici.fr"
+        "ici.fr"
       ],
       "local": false,
       "feeds": [
