@@ -79,9 +79,9 @@
       "id": "icigironde",
       "name": "Ici Gironde",
       "domains": [
-        "https://www.ici.fr/radio/gironde"
+        "https://www.ici.fr"
       ],
-      "local": true,
+      "local": false,
       "feeds": [
         "https://www.ici.fr/rss/gironde/a-la-une.xml"
       ],
@@ -248,7 +248,7 @@
       ],
       "enabled": true,
       "exclude_paths": []
-    },
+    }
   ],
   "places": [
     {
