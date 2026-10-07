@@ -29,7 +29,7 @@
       ],
       "local": true,
       "feeds": [
-        "https://www.ladepechedubassin.fr/feed/"
+        "https://rssamplifier.com/ladepechedubassin-fr.rss"
       ],
       "enabled": true,
       "exclude_paths": []
@@ -61,6 +61,19 @@
       "exclude_paths": [
         "/evenement/"
       ]
+    },
+    {
+      "id": "vivrelebassin",
+      "name": "Vivre Le Bassin",
+      "domains": [
+        "vivrelebassin.fr"
+      ],
+      "local": true,
+      "feeds": [
+        "https://vivrelebassin.fr/feed/"
+      ],
+      "enabled": true,
+      "exclude_paths": []
     },
     {
       "id": "le-monde",
@@ -126,7 +139,7 @@
       ],
       "local": false,
       "feeds": [
-        "https://www.la-croix.com/RSS/UNIVERS.xml"
+        "https://www.la-croix.com/feeds/rss/site.xml"
       ],
       "enabled": true,
       "exclude_paths": []
@@ -178,7 +191,7 @@
       ],
       "local": false,
       "feeds": [
-        "https://www.challenges.fr/economie/rss.xml"
+        "https://www.challenges.fr/rss.xml"
       ],
       "enabled": true,
       "exclude_paths": []
