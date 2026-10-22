@@ -15,7 +15,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "7098f2a5b63691443b5a08ce": {
     "id": "7098f2a5b63691443b5a08ce",
@@ -36,7 +36,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "af50be003354dd5a2d7139cb": {
     "id": "af50be003354dd5a2d7139cb",
@@ -228,7 +228,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "f849e97fa7011ad42e3879d4": {
     "id": "f849e97fa7011ad42e3879d4",
@@ -248,7 +248,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "495955c5f6ccf1d6bae8c178": {
     "id": "495955c5f6ccf1d6bae8c178",
@@ -1232,7 +1232,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T13:26:10+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "3f6939f04707886f15e6b63b": {
     "id": "3f6939f04707886f15e6b63b",
@@ -1252,7 +1252,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T13:26:10+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "fc1f1ff4119c7c4509a0a5ac": {
     "id": "fc1f1ff4119c7c4509a0a5ac",
@@ -1272,7 +1272,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T13:26:10+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "d3e3780651e2955d35b30fba": {
     "id": "d3e3780651e2955d35b30fba",
@@ -1292,7 +1292,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T13:26:10+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "896af6e4885ee502da136940": {
     "id": "896af6e4885ee502da136940",
@@ -1310,7 +1310,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T13:26:10+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "ee70fe0c70d71390fb66da67": {
     "id": "ee70fe0c70d71390fb66da67",
@@ -2554,7 +2554,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T22:38:26+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "0869ffc90e2086aa5c956157": {
     "id": "0869ffc90e2086aa5c956157",
@@ -2635,7 +2635,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T12:36:59+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "775aff83434ba54f74b61fbb": {
     "id": "775aff83434ba54f74b61fbb",
@@ -2815,7 +2815,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T22:42:09+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "5a1ab63c1d7b8e89c5ee7e62": {
     "id": "5a1ab63c1d7b8e89c5ee7e62",
@@ -2836,7 +2836,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T22:42:09+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "a1ab6a973a4405cc43ed93f2": {
     "id": "a1ab6a973a4405cc43ed93f2",
@@ -2856,7 +2856,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T22:42:09+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "e628ab0910ef16cce02d4b92": {
     "id": "e628ab0910ef16cce02d4b92",
@@ -2881,7 +2881,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T22:42:09+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "67fe3e096db2e9a8df338c44": {
     "id": "67fe3e096db2e9a8df338c44",
@@ -2961,7 +2961,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T12:35:43+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "3c4d4accab59f4c4aef4ee6f": {
     "id": "3c4d4accab59f4c4aef4ee6f",
@@ -3103,7 +3103,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T22:07:06+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "0b8c2deaa062482474893fa7": {
     "id": "0b8c2deaa062482474893fa7",
@@ -3121,7 +3121,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T22:07:06+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "0abbaac02379371334599371": {
     "id": "0abbaac02379371334599371",
@@ -3141,7 +3141,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T22:07:06+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "573df0f699eab1c3d17daaca": {
     "id": "573df0f699eab1c3d17daaca",
@@ -3161,7 +3161,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T22:07:06+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "20151c15df785df6aab274a2": {
     "id": "20151c15df785df6aab274a2",
@@ -3179,7 +3179,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T22:07:06+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "5d570606ba8d9e98df5a792c": {
     "id": "5d570606ba8d9e98df5a792c",
@@ -3199,7 +3199,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-09T22:07:06+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "9b6acde6ae2a70baff6eeb5e": {
     "id": "9b6acde6ae2a70baff6eeb5e",
@@ -3519,7 +3519,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-11T21:34:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "826bfe4f8187d462bc7782f1": {
     "id": "826bfe4f8187d462bc7782f1",
@@ -3539,7 +3539,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-11T21:34:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "5da31f32ae165947c2d19857": {
     "id": "5da31f32ae165947c2d19857",
@@ -3559,7 +3559,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-11T21:34:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "b75c2cb87b986169153bb6f4": {
     "id": "b75c2cb87b986169153bb6f4",
@@ -3579,7 +3579,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-11T21:34:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "cd10945b91b7de0cab0a0e88": {
     "id": "cd10945b91b7de0cab0a0e88",
@@ -3678,7 +3678,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-12T12:52:26+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "d695570188b560b3e227eafd": {
     "id": "d695570188b560b3e227eafd",
@@ -3881,7 +3881,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T00:30:12+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "34ecdbd618aea80022410e16": {
     "id": "34ecdbd618aea80022410e16",
@@ -3899,7 +3899,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T00:30:12+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "16cc8f447f71d32a0fcb12a5": {
     "id": "16cc8f447f71d32a0fcb12a5",
@@ -3977,7 +3977,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T12:38:14+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "4f87f610533b54394b8c0f4f": {
     "id": "4f87f610533b54394b8c0f4f",
@@ -4059,7 +4059,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T22:41:44+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "47159a64460551c7c3ce1b6a": {
     "id": "47159a64460551c7c3ce1b6a",
@@ -4077,7 +4077,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T22:41:44+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "2ca8f5e25a36667ba9b6a2ee": {
     "id": "2ca8f5e25a36667ba9b6a2ee",
@@ -4097,7 +4097,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T22:41:44+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "06a0b764de9d3174a0d81794": {
     "id": "06a0b764de9d3174a0d81794",
@@ -4160,7 +4160,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-14T10:45:04+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "89273d2030c55492ce2955f0": {
     "id": "89273d2030c55492ce2955f0",
@@ -4180,7 +4180,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-14T10:45:04+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "2b617668a9f1b009dfcf5786": {
     "id": "2b617668a9f1b009dfcf5786",
@@ -4341,7 +4341,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "d1712a2174da2edd993ec7b8": {
     "id": "d1712a2174da2edd993ec7b8",
@@ -4362,7 +4362,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "c987cb4d48c107c72d01000a": {
     "id": "c987cb4d48c107c72d01000a",
@@ -4382,7 +4382,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "805e9add6407bb5782c3129b": {
     "id": "805e9add6407bb5782c3129b",
@@ -4407,7 +4407,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "9e7e460f374bcfe41fbcfbaf": {
     "id": "9e7e460f374bcfe41fbcfbaf",
@@ -4487,7 +4487,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T10:19:47+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "8fffb46767383da4c7faf374": {
     "id": "8fffb46767383da4c7faf374",
@@ -4507,7 +4507,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "7e24efcc5ed3ab2aee9e3630": {
     "id": "7e24efcc5ed3ab2aee9e3630",
@@ -4529,7 +4529,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "9630e65c0c09326bf0747de4": {
     "id": "9630e65c0c09326bf0747de4",
@@ -4549,7 +4549,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "3f95f0a0ab1e443587187d90": {
     "id": "3f95f0a0ab1e443587187d90",
@@ -4567,7 +4567,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "00d0efd143ceca8042e3b087": {
     "id": "00d0efd143ceca8042e3b087",
@@ -4587,7 +4587,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "60e76e75727e6661070bb70b": {
     "id": "60e76e75727e6661070bb70b",
@@ -4711,7 +4711,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T21:09:40+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "5126be6ac6dc401879bad141": {
     "id": "5126be6ac6dc401879bad141",
@@ -4729,7 +4729,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T21:09:40+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "46d4f3e5e30f8814036f1988": {
     "id": "46d4f3e5e30f8814036f1988",
@@ -4750,7 +4750,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T21:09:40+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "5c8766a795ecedb21ae4d0a3": {
     "id": "5c8766a795ecedb21ae4d0a3",
@@ -4872,7 +4872,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T10:12:26+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "530b4df80b42f9df7d36e5ac": {
     "id": "530b4df80b42f9df7d36e5ac",
@@ -4892,7 +4892,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T10:12:26+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "d2c6ecc97d2d49f995f8979e": {
     "id": "d2c6ecc97d2d49f995f8979e",
@@ -4990,7 +4990,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T15:58:36+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "3e9f621815e87d8bce70df48": {
     "id": "3e9f621815e87d8bce70df48",
@@ -5231,7 +5231,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T20:49:14+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "4c707139854ea9e15c3cfcbd": {
     "id": "4c707139854ea9e15c3cfcbd",
@@ -5251,7 +5251,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T20:49:14+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "3b942283524665a85b3bda93": {
     "id": "3b942283524665a85b3bda93",
@@ -5271,7 +5271,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T20:49:14+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "7dc311aa509ce8cfa2c78ef4": {
     "id": "7dc311aa509ce8cfa2c78ef4",
@@ -5372,7 +5372,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-17T14:59:21+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "fe2ccef3d885da63760580e7": {
     "id": "fe2ccef3d885da63760580e7",
@@ -5450,7 +5450,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T10:03:34+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "54667158c636fa3a55daf02b": {
     "id": "54667158c636fa3a55daf02b",
@@ -5530,7 +5530,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T15:18:59+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "02c7523bb30180bc73be0f78": {
     "id": "02c7523bb30180bc73be0f78",
@@ -5550,7 +5550,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "8c1b3e593913990f84cde833": {
     "id": "8c1b3e593913990f84cde833",
@@ -5570,7 +5570,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "86490ece940bf71843a02f70": {
     "id": "86490ece940bf71843a02f70",
@@ -5588,7 +5588,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "cfc7ef49ef9b1cf271ae2ce9": {
     "id": "cfc7ef49ef9b1cf271ae2ce9",
@@ -5608,7 +5608,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "eecdbe83ff692331731cd116": {
     "id": "eecdbe83ff692331731cd116",
@@ -5810,7 +5810,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T10:55:03+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "807c5ca218ae16f80f6671c3": {
     "id": "807c5ca218ae16f80f6671c3",
@@ -5891,7 +5891,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "c8c41faffd8e074fa6bf3578": {
     "id": "c8c41faffd8e074fa6bf3578",
@@ -5911,7 +5911,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "a8e885d1cb1fb3a5aec89ce8": {
     "id": "a8e885d1cb1fb3a5aec89ce8",
@@ -5932,7 +5932,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "318c7acf59dc837fedb4ca43": {
     "id": "318c7acf59dc837fedb4ca43",
@@ -5953,7 +5953,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "b455d6b9da65c0889d0b99b5": {
     "id": "b455d6b9da65c0889d0b99b5",
@@ -6013,7 +6013,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T02:21:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "19df7b5cd19a2bb0bbd16178": {
     "id": "19df7b5cd19a2bb0bbd16178",
@@ -6033,7 +6033,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T02:21:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "39f50720e7d8a6a9505c52e5": {
     "id": "39f50720e7d8a6a9505c52e5",
@@ -6054,7 +6054,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T02:21:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "7acb488d3414eeedae3e5666": {
     "id": "7acb488d3414eeedae3e5666",
@@ -6075,7 +6075,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T02:21:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "b354bf629448101ac0f421d0": {
     "id": "b354bf629448101ac0f421d0",
@@ -6095,7 +6095,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T02:21:37+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "4b6d829e1612c589793aaf45": {
     "id": "4b6d829e1612c589793aaf45",
@@ -6136,7 +6136,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T10:34:08+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "eecef14ca6d792b4233bb966": {
     "id": "eecef14ca6d792b4233bb966",
@@ -6156,7 +6156,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T10:34:08+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "36e0a73d6741a49cb2902361": {
     "id": "36e0a73d6741a49cb2902361",
@@ -6176,7 +6176,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T10:34:08+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "232a10ab8a1e4a31a7e14460": {
     "id": "232a10ab8a1e4a31a7e14460",
@@ -6196,7 +6196,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T10:34:08+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "ee069a51a8564cd5e5d184ed": {
     "id": "ee069a51a8564cd5e5d184ed",
@@ -6236,7 +6236,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T21:17:57+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "d1f2264b880193a82f019096": {
     "id": "d1f2264b880193a82f019096",
@@ -6256,7 +6256,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T21:17:57+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "840e6af1177b1e3c6b60b9f9": {
     "id": "840e6af1177b1e3c6b60b9f9",
@@ -6277,7 +6277,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T21:17:57+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "3cfe081e20cd655c200a4fe0": {
     "id": "3cfe081e20cd655c200a4fe0",
@@ -6357,7 +6357,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "38a122ae3d88255ae115fe20": {
     "id": "38a122ae3d88255ae115fe20",
@@ -6377,7 +6377,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "954747c5a8eb1352dab6b493": {
     "id": "954747c5a8eb1352dab6b493",
@@ -6395,7 +6395,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "2528c9a670d4d038c0127616": {
     "id": "2528c9a670d4d038c0127616",
@@ -6415,7 +6415,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "ac945531cd4e1de132e174aa": {
     "id": "ac945531cd4e1de132e174aa",
@@ -6435,7 +6435,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T16:30:12+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "846c663195c014b9da1318e3": {
     "id": "846c663195c014b9da1318e3",
@@ -6513,7 +6513,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "6c5b2b19b059d7752f681487": {
     "id": "6c5b2b19b059d7752f681487",
@@ -6534,7 +6534,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "88ac03a2bc8e0f8b06efa9f9": {
     "id": "88ac03a2bc8e0f8b06efa9f9",
@@ -6555,7 +6555,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "8fcd870ef6562e7dc372876a": {
     "id": "8fcd870ef6562e7dc372876a",
@@ -6577,7 +6577,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "acd213dc576ac60d1d035df1": {
     "id": "acd213dc576ac60d1d035df1",
@@ -6597,7 +6597,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "a1f2d6a89704d74a7da035e9": {
     "id": "a1f2d6a89704d74a7da035e9",
@@ -6617,7 +6617,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "c78230d7cc50f4b3c1d9f0c3": {
     "id": "c78230d7cc50f4b3c1d9f0c3",
@@ -6677,7 +6677,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T10:38:31+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "34ab63dca13f753ed478c53d": {
     "id": "34ab63dca13f753ed478c53d",
@@ -6702,7 +6702,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T10:38:31+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "60349cc6cb611196118dcc04": {
     "id": "60349cc6cb611196118dcc04",
@@ -6722,7 +6722,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T10:38:31+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   },
   "0cccdf1f9ad1694fd4d64651": {
     "id": "0cccdf1f9ad1694fd4d64651",
@@ -6742,6 +6742,146 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T10:38:31+02:00",
-    "last_seen_at": "2026-10-22T10:38:31+02:00"
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "0d4a3b6ff2d44bfc8d367f94": {
+    "id": "0d4a3b6ff2d44bfc8d367f94",
+    "title": "Incendies de l’été en Gironde et dans les Landes : où en est le déploiement de « l’artillerie lourde » promise par Sébastien Lecornu ?",
+    "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-de-l-ete-en-gironde-et-dans-les-landes-ou-en-est-le-deploiement-de-l-artillerie-lourde-promise-par-sebastien-lecornu-31185124.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-22T14:17:28+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "reconstruction-vie-publique",
+    "places": [
+      "Saumos"
+    ],
+    "topic_id": null,
+    "description": "Sophie Brocas, préfète de Nouvelle-Aquitaine et de Gironde, a présenté ce jeudi 22 octobre, l’état d’avancement des promesses du Premier ministre sur le volet de la reconstruction post-incendies de Saumos",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "ef467bd338a86b8ed9e0c193": {
+    "id": "ef467bd338a86b8ed9e0c193",
+    "title": "Le Teich : une rencontre avec l’autrice Émilie Pinel Caron pour Octobre rose",
+    "url": "https://www.sudouest.fr/gironde/le-teich/le-teich-une-rencontre-avec-l-autrice-emilie-pinel-caron-pour-octobre-rose-31101148.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-22T10:46:48+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "vie-locale",
+    "places": [
+      "Le Teich"
+    ],
+    "topic_id": null,
+    "description": "Dans le cadre de la campagne de sensibilisation, la médiathèque de la commune accueille l’autrice de « Confidences d’une [brain] guerrière » le samedi 24 octobre pour un temps d’échange et de témoignage",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "cd6d22e008597ac9f10484cc": {
+    "id": "cd6d22e008597ac9f10484cc",
+    "title": "Marcheprime : une comédie interactive et solidaire au profit des sapeurs-pompiers",
+    "url": "https://www.sudouest.fr/gironde/marcheprime/marcheprime-une-comedie-interactive-et-solidaire-au-profit-des-sapeurs-pompiers-30836024.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-22T10:39:00+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "environnement",
+    "places": [
+      "Marcheprime"
+    ],
+    "topic_id": null,
+    "description": "L’Association autonome des parents d’élèves du collège de Marcheprime organise une soirée théâtrale à la salle des fêtes. Les sapeurs-pompiers de Marcheprime sont invités à y assister",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "6822d00d3ddd1ac51afb0a05": {
+    "id": "6822d00d3ddd1ac51afb0a05",
+    "title": "Petite enfance et grand âge, la crèche « Marcelle et Martin » fête ses cinq ans au Teich",
+    "url": "https://www.ladepechedubassin.fr/gironde/le-teich/petite-enfance-et-grand-age-la-creche-marcelle-et-martin-fete-ses-cinq-ans-au-teich-31087773.php",
+    "source_id": "depeche-bassin",
+    "source_name": "La Dépêche du Bassin",
+    "published_at": "2026-10-22T11:05:35+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "vie-locale",
+    "places": [
+      "Marcheprime"
+    ],
+    "topic_id": null,
+    "description": "Si les enfants de ses microcrèches n’ont pas encore atteint cet âge, les accueils « Marcelle et Martin », eux, soufflent leurs cinq bougies ce mois-ci. La première au Teich, la suivante à Marcheprime et",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "f3aea240845fb3e6b3093f6e": {
+    "id": "f3aea240845fb3e6b3093f6e",
+    "title": "Incendies sur le bassin d’Arcachon, le RN prône l’offensive aérienne",
+    "url": "https://www.ladepechedubassin.fr/bassin-arcachon/incendies-sur-le-bassin-d-arcachon-le-rn-prone-l-offensive-aerienne-31158039.php",
+    "source_id": "depeche-bassin",
+    "source_name": "La Dépêche du Bassin",
+    "published_at": "2026-10-22T11:04:19+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "environnement",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "Quelques semaines après les incendies de l’été, les dirigeants du Rassemblement national font entendre leur voix depuis Arcachon. Trois figures du parti détaillent leur stratégie offensive contre les méga-feux.",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "a4e537d45ff2777b03823298": {
+    "id": "a4e537d45ff2777b03823298",
+    "title": "Lège-Cap-Ferret : ce que coûte vraiment le magazine municipal Presqu’île",
+    "url": "https://www.ladepechedubassin.fr/gironde/lege-cap-ferret/lege-cap-ferret-ce-que-coute-vraiment-le-magazine-municipal-presqu-ile-31168786.php",
+    "source_id": "depeche-bassin",
+    "source_name": "La Dépêche du Bassin",
+    "published_at": "2026-10-22T11:03:38+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "vie-locale",
+    "places": [
+      "Lège-Cap Ferret"
+    ],
+    "topic_id": null,
+    "description": "Alors que la communication locale se digitalise, le magazine municipal en papier résiste, parfois à prix d’or. À Lège-Cap-Ferret, la réalisation de la revue Presqu’île représente un marché public de près",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
+  },
+  "bf8c08b7f900f707a8a80cba": {
+    "id": "bf8c08b7f900f707a8a80cba",
+    "title": "Mégafeu de Saumos en Gironde : 268 millions d’euros de dégâts estimés, certaines maisons ne seront pas reconstruites",
+    "url": "https://www.lefigaro.fr/bordeaux/megafeu-de-saumos-en-gironde-268-millions-d-euros-de-degats-estimes-certaines-maisons-ne-seront-pas-reconstruites-20261022",
+    "source_id": "le-figaro",
+    "source_name": "Le Figaro",
+    "published_at": "2026-10-22T14:47:07+02:00",
+    "modified_at": null,
+    "publication_date": "2026-10-22",
+    "theme": "environnement",
+    "places": [
+      "Saumos"
+    ],
+    "topic_id": null,
+    "description": "La préfecture de la gironde a réuni, jeudi, les principaux acteurs qui gèrent le suivi des personnes sinistrées par les violents incendies qui ont ravagé le département cet été.",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-22T16:31:56+02:00",
+    "last_seen_at": "2026-10-22T16:31:56+02:00"
   }
 }
