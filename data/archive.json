@@ -228,7 +228,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "f849e97fa7011ad42e3879d4": {
     "id": "f849e97fa7011ad42e3879d4",
@@ -248,7 +248,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "495955c5f6ccf1d6bae8c178": {
     "id": "495955c5f6ccf1d6bae8c178",
@@ -2635,7 +2635,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T12:36:59+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "775aff83434ba54f74b61fbb": {
     "id": "775aff83434ba54f74b61fbb",
@@ -3519,7 +3519,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-11T21:34:17+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "826bfe4f8187d462bc7782f1": {
     "id": "826bfe4f8187d462bc7782f1",
@@ -3539,7 +3539,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-11T21:34:17+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "5da31f32ae165947c2d19857": {
     "id": "5da31f32ae165947c2d19857",
@@ -3678,7 +3678,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-12T12:52:26+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "d695570188b560b3e227eafd": {
     "id": "d695570188b560b3e227eafd",
@@ -3881,7 +3881,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T00:30:12+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "34ecdbd618aea80022410e16": {
     "id": "34ecdbd618aea80022410e16",
@@ -3899,7 +3899,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T00:30:12+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "16cc8f447f71d32a0fcb12a5": {
     "id": "16cc8f447f71d32a0fcb12a5",
@@ -4059,7 +4059,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T22:41:44+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "47159a64460551c7c3ce1b6a": {
     "id": "47159a64460551c7c3ce1b6a",
@@ -4077,7 +4077,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T22:41:44+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "2ca8f5e25a36667ba9b6a2ee": {
     "id": "2ca8f5e25a36667ba9b6a2ee",
@@ -4097,7 +4097,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-13T22:41:44+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "06a0b764de9d3174a0d81794": {
     "id": "06a0b764de9d3174a0d81794",
@@ -4160,7 +4160,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-14T10:45:04+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "89273d2030c55492ce2955f0": {
     "id": "89273d2030c55492ce2955f0",
@@ -4341,7 +4341,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "d1712a2174da2edd993ec7b8": {
     "id": "d1712a2174da2edd993ec7b8",
@@ -4362,7 +4362,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "c987cb4d48c107c72d01000a": {
     "id": "c987cb4d48c107c72d01000a",
@@ -4382,7 +4382,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "805e9add6407bb5782c3129b": {
     "id": "805e9add6407bb5782c3129b",
@@ -4407,7 +4407,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T01:56:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "9e7e460f374bcfe41fbcfbaf": {
     "id": "9e7e460f374bcfe41fbcfbaf",
@@ -4507,7 +4507,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "7e24efcc5ed3ab2aee9e3630": {
     "id": "7e24efcc5ed3ab2aee9e3630",
@@ -4529,7 +4529,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "9630e65c0c09326bf0747de4": {
     "id": "9630e65c0c09326bf0747de4",
@@ -4549,7 +4549,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "3f95f0a0ab1e443587187d90": {
     "id": "3f95f0a0ab1e443587187d90",
@@ -4567,7 +4567,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "00d0efd143ceca8042e3b087": {
     "id": "00d0efd143ceca8042e3b087",
@@ -4587,7 +4587,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "60e76e75727e6661070bb70b": {
     "id": "60e76e75727e6661070bb70b",
@@ -4711,7 +4711,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T21:09:40+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "5126be6ac6dc401879bad141": {
     "id": "5126be6ac6dc401879bad141",
@@ -4729,7 +4729,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T21:09:40+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "46d4f3e5e30f8814036f1988": {
     "id": "46d4f3e5e30f8814036f1988",
@@ -4750,7 +4750,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T21:09:40+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "5c8766a795ecedb21ae4d0a3": {
     "id": "5c8766a795ecedb21ae4d0a3",
@@ -4872,7 +4872,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T10:12:26+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "530b4df80b42f9df7d36e5ac": {
     "id": "530b4df80b42f9df7d36e5ac",
@@ -4990,7 +4990,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T15:58:36+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "3e9f621815e87d8bce70df48": {
     "id": "3e9f621815e87d8bce70df48",
@@ -5231,7 +5231,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T20:49:14+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "4c707139854ea9e15c3cfcbd": {
     "id": "4c707139854ea9e15c3cfcbd",
@@ -5251,7 +5251,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T20:49:14+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "3b942283524665a85b3bda93": {
     "id": "3b942283524665a85b3bda93",
@@ -5271,7 +5271,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-16T20:49:14+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "7dc311aa509ce8cfa2c78ef4": {
     "id": "7dc311aa509ce8cfa2c78ef4",
@@ -5450,7 +5450,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T10:03:34+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "54667158c636fa3a55daf02b": {
     "id": "54667158c636fa3a55daf02b",
@@ -5550,7 +5550,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "8c1b3e593913990f84cde833": {
     "id": "8c1b3e593913990f84cde833",
@@ -5570,7 +5570,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "86490ece940bf71843a02f70": {
     "id": "86490ece940bf71843a02f70",
@@ -5588,7 +5588,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "cfc7ef49ef9b1cf271ae2ce9": {
     "id": "cfc7ef49ef9b1cf271ae2ce9",
@@ -5608,7 +5608,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "eecdbe83ff692331731cd116": {
     "id": "eecdbe83ff692331731cd116",
@@ -5891,7 +5891,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "c8c41faffd8e074fa6bf3578": {
     "id": "c8c41faffd8e074fa6bf3578",
@@ -5911,7 +5911,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "a8e885d1cb1fb3a5aec89ce8": {
     "id": "a8e885d1cb1fb3a5aec89ce8",
@@ -5932,7 +5932,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-19T18:28:56+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "318c7acf59dc837fedb4ca43": {
     "id": "318c7acf59dc837fedb4ca43",
@@ -6176,7 +6176,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T10:34:08+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "232a10ab8a1e4a31a7e14460": {
     "id": "232a10ab8a1e4a31a7e14460",
@@ -6196,7 +6196,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T10:34:08+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "ee069a51a8564cd5e5d184ed": {
     "id": "ee069a51a8564cd5e5d184ed",
@@ -6277,7 +6277,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-20T21:17:57+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "3cfe081e20cd655c200a4fe0": {
     "id": "3cfe081e20cd655c200a4fe0",
@@ -6377,7 +6377,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "954747c5a8eb1352dab6b493": {
     "id": "954747c5a8eb1352dab6b493",
@@ -6395,7 +6395,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "2528c9a670d4d038c0127616": {
     "id": "2528c9a670d4d038c0127616",
@@ -6597,7 +6597,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "a1f2d6a89704d74a7da035e9": {
     "id": "a1f2d6a89704d74a7da035e9",
@@ -6617,7 +6617,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T21:18:27+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "c78230d7cc50f4b3c1d9f0c3": {
     "id": "c78230d7cc50f4b3c1d9f0c3",
@@ -6702,7 +6702,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T10:38:31+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "60349cc6cb611196118dcc04": {
     "id": "60349cc6cb611196118dcc04",
@@ -6722,7 +6722,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T10:38:31+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "0cccdf1f9ad1694fd4d64651": {
     "id": "0cccdf1f9ad1694fd4d64651",
@@ -6822,7 +6822,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T16:31:56+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "f3aea240845fb3e6b3093f6e": {
     "id": "f3aea240845fb3e6b3093f6e",
@@ -6842,7 +6842,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T16:31:56+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "a4e537d45ff2777b03823298": {
     "id": "a4e537d45ff2777b03823298",
@@ -6862,7 +6862,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T16:31:56+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "bf8c08b7f900f707a8a80cba": {
     "id": "bf8c08b7f900f707a8a80cba",
@@ -6940,7 +6940,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T21:13:46+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "b5b6585a53f6ce3231af183f": {
     "id": "b5b6585a53f6ce3231af183f",
@@ -6960,7 +6960,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T21:13:46+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "54361089b10b61b7aca46ae6": {
     "id": "54361089b10b61b7aca46ae6",
@@ -6980,7 +6980,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-22T21:13:46+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "8c9dfd323699727698ccefd0": {
     "id": "8c9dfd323699727698ccefd0",
@@ -7040,7 +7040,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-23T10:34:09+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "d0a86eff3ef7937efb2cbb21": {
     "id": "d0a86eff3ef7937efb2cbb21",
@@ -7060,7 +7060,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-23T10:34:09+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "d7fb41c52ed16a5551721b2f": {
     "id": "d7fb41c52ed16a5551721b2f",
@@ -7239,7 +7239,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-24T01:51:54+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "42794f9fc5f4c9aa3a79bedc": {
     "id": "42794f9fc5f4c9aa3a79bedc",
@@ -7259,7 +7259,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-24T01:51:54+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "02b62aab925fcbdde20ea671": {
     "id": "02b62aab925fcbdde20ea671",
@@ -7277,7 +7277,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-24T01:51:54+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "34598d323f0757ee60c5f8b9": {
     "id": "34598d323f0757ee60c5f8b9",
@@ -7297,7 +7297,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-24T01:51:54+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "4d442433148560ca8ce949ea": {
     "id": "4d442433148560ca8ce949ea",
@@ -7337,7 +7337,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-24T10:09:03+02:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "49a18fe2a2b17d094816152c": {
     "id": "49a18fe2a2b17d094816152c",
@@ -7497,7 +7497,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-25T09:26:58+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "bf44e12828c1c3482acaa5fc": {
     "id": "bf44e12828c1c3482acaa5fc",
@@ -7657,7 +7657,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-26T09:57:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "d370e7aa0d0242fadb16a13a": {
     "id": "d370e7aa0d0242fadb16a13a",
@@ -7717,7 +7717,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-26T17:08:27+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "a0d9aa82c8acb3cad366fd9d": {
     "id": "a0d9aa82c8acb3cad366fd9d",
@@ -8040,7 +8040,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-27T10:01:43+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "7cad3f45445d7cfd24389e34": {
     "id": "7cad3f45445d7cfd24389e34",
@@ -8203,7 +8203,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T10:41:19+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "b8e827aea58f47329c253410": {
     "id": "b8e827aea58f47329c253410",
@@ -8224,7 +8224,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T10:41:19+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "b140791699645f57ec0d2f37": {
     "id": "b140791699645f57ec0d2f37",
@@ -8244,7 +8244,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T10:41:19+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "accd73795047f70fbacfad91": {
     "id": "accd73795047f70fbacfad91",
@@ -8304,7 +8304,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T10:41:19+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "9d950f633b88e80e361f47ee": {
     "id": "9d950f633b88e80e361f47ee",
@@ -8324,7 +8324,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T10:41:19+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "e437a966ba55db5733827bd5": {
     "id": "e437a966ba55db5733827bd5",
@@ -8344,7 +8344,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T21:16:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "382310231b08dd0e73899dff": {
     "id": "382310231b08dd0e73899dff",
@@ -8364,7 +8364,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T21:16:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "a709de7a7b280e388a676839": {
     "id": "a709de7a7b280e388a676839",
@@ -8384,7 +8384,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T21:16:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "6d3d4973f6568e72689b764d": {
     "id": "6d3d4973f6568e72689b764d",
@@ -8404,7 +8404,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T21:16:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "2be3520131e5356b14adeb5e": {
     "id": "2be3520131e5356b14adeb5e",
@@ -8425,7 +8425,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T21:16:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "6538ae19038e94ad0c2f38c3": {
     "id": "6538ae19038e94ad0c2f38c3",
@@ -8445,7 +8445,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-28T21:16:34+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "7a6ec47f5be5d26511728cab": {
     "id": "7a6ec47f5be5d26511728cab",
@@ -8465,7 +8465,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "0db3b8f9bd5c7dd27d0443ca": {
     "id": "0db3b8f9bd5c7dd27d0443ca",
@@ -8485,7 +8485,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "6af1e5bb146f94fbf82b5bc9": {
     "id": "6af1e5bb146f94fbf82b5bc9",
@@ -8505,7 +8505,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "a4455026fef9769e279177e4": {
     "id": "a4455026fef9769e279177e4",
@@ -8525,7 +8525,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "ded30313dc416e64d183e78d": {
     "id": "ded30313dc416e64d183e78d",
@@ -8545,7 +8545,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "5ad7f46104caa9033d559251": {
     "id": "5ad7f46104caa9033d559251",
@@ -8565,7 +8565,7 @@
     "description_origin": null,
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "d112909ae8033079066f0660": {
     "id": "d112909ae8033079066f0660",
@@ -8586,7 +8586,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "73a818d612ed5b01a87567b0": {
     "id": "73a818d612ed5b01a87567b0",
@@ -8606,7 +8606,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "73389bc6b47256e0ac8c183f": {
     "id": "73389bc6b47256e0ac8c183f",
@@ -8626,7 +8626,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T01:58:45+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "dff91791b60bc5cddfc950e4": {
     "id": "dff91791b60bc5cddfc950e4",
@@ -8666,7 +8666,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T10:59:39+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "ae31337301ffeee1ef499cdd": {
     "id": "ae31337301ffeee1ef499cdd",
@@ -8686,7 +8686,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T10:59:39+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "e2d1a231f46e56b724decc27": {
     "id": "e2d1a231f46e56b724decc27",
@@ -8706,7 +8706,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T10:59:39+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "bf6dc49fc5875ceae6092bc5": {
     "id": "bf6dc49fc5875ceae6092bc5",
@@ -8726,7 +8726,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T10:59:39+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "8313cc54b424b246498a97f8": {
     "id": "8313cc54b424b246498a97f8",
@@ -8746,7 +8746,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T10:59:39+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   },
   "876073efdc609ea43dc841b8": {
     "id": "876073efdc609ea43dc841b8",
@@ -8766,6 +8766,152 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T10:59:39+01:00",
-    "last_seen_at": "2026-10-29T10:59:39+01:00"
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "8c4499a66ed9509b500bfb03": {
+    "id": "8c4499a66ed9509b500bfb03",
+    "title": "Gujan-Mestras : à l’Harmonie Saint-Michel, des projets musicaux et un nouveau président",
+    "url": "https://www.sudouest.fr/gironde/gujan-mestras/gujan-mestras-a-l-harmonie-saint-michel-des-projets-en-musique-et-un-nouveau-president-31232887.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-29T21:10:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "associations-sport",
+    "places": [
+      "Gujan-Mestras"
+    ],
+    "topic_id": null,
+    "description": "L’association musicale a tenu son assemblée générale vendredi 23 octobre et élu Pacôme Mancel à sa présidence",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "a6517c131071d2778ac6945e": {
+    "id": "a6517c131071d2778ac6945e",
+    "title": "Andernos-les-Bains : un spectacle participatif et un débat pour aborder la santé mentale",
+    "url": "https://www.sudouest.fr/gironde/andernos-les-bains/andernos-les-bains-un-spectacle-participatif-et-un-debat-pour-aborder-la-sante-mentale-31206144.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-29T20:09:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "culture-sorties",
+    "places": [
+      "Andernos-les-Bains"
+    ],
+    "topic_id": null,
+    "description": "La pièce « Toutes les choses géniales » sera jouée jeudi 5 novembre au théâtre La Dolce Vita, une représentation qui sera suivie d’un échange avec des professionnels",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "ec0fcc3dde11e5e1e61bb83e": {
+    "id": "ec0fcc3dde11e5e1e61bb83e",
+    "title": "Lanton : Télélanthon mobilise les associations pour le grand rendez-vous de décembre",
+    "url": "https://www.sudouest.fr/gironde/lanton/lanton-telelanthon-mobilise-les-associations-pour-le-grand-rendez-vous-de-decembre-31274927.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-29T19:53:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "environnement",
+    "places": [
+      "Lanton"
+    ],
+    "topic_id": null,
+    "description": "Après l’annulation de deux événements cet été en raison du mégafeu, les organisateurs et les associations locales préparent le programme du Téléthon prévu les 4 et 5 décembre au complexe sportif de Cassy",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "25eca3c145cc62db7dd3161a": {
+    "id": "25eca3c145cc62db7dd3161a",
+    "title": "Football / Régional 2 et 3 : Biganos doit réagir, Lège B veut rester dans le peloton de tête",
+    "url": "https://www.sudouest.fr/sport/football/football-regional-2-et-3-biganos-doit-reagir-pour-ne-pas-sombrer-31267895.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-29T19:22:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "associations-sport",
+    "places": [
+      "Biganos"
+    ],
+    "topic_id": null,
+    "description": "En ce week-end d’Halloween, ces 31 octobre et 1er novembre, les clubs locaux disputeront la sixième journée des championnats régionaux, dont ils vont essayer de ne pas sortir mortifiés",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "5af1bb083b895445aba6e990": {
+    "id": "5af1bb083b895445aba6e990",
+    "title": "Projet de méga-plateforme logistique en Gironde : le maire de Belin-Béliet signe un arrêté de refus de permis de construire",
+    "url": "https://www.sudouest.fr/gironde/belin-beliet/projet-de-mega-plateforme-logistique-en-gironde-le-maire-de-belin-beliet-signe-un-arrete-de-refus-de-permis-de-construire-31289064.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-29T19:00:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "vie-locale",
+    "places": [
+      "Belin-Béliet"
+    ],
+    "topic_id": null,
+    "description": "Nouvel épisode pour le projet de plateforme logistique qui divise depuis 2018 le territoire : le maire Redouane Louaazizi a signé, en cette fin octobre, un arrêté de refus de permis de construire",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "0ca2949159f3fc21fa11435b": {
+    "id": "0ca2949159f3fc21fa11435b",
+    "title": "Football / Régional 2 : nouveau derby sur le Bassin entre Audenge et Andernos",
+    "url": "https://www.sudouest.fr/gironde/audenge/football-regional-2-nouveau-derby-sur-le-bassin-entre-audenge-et-andernos-31267822.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-10-29T18:28:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "associations-sport",
+    "places": [
+      "Andernos-les-Bains",
+      "Audenge"
+    ],
+    "topic_id": null,
+    "description": "Cette sixième journée des championnats régionaux offre, ce samedi 31 octobre, un derby de haut de tableau avec Audenge qui accueille Andernos",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
+  },
+  "fad76506e3ff789e87adf15c": {
+    "id": "fad76506e3ff789e87adf15c",
+    "title": "Actu ciné, films sur Arcachon, La Teste, Gujan, Biganos, Andernos le 28/10",
+    "url": "https://www.infobassin.com/cine-26-10-28/",
+    "source_id": "infobassin",
+    "source_name": "InfoBassin",
+    "published_at": "2026-10-29T14:38:49+01:00",
+    "modified_at": null,
+    "publication_date": "2026-10-29",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon",
+      "Andernos-les-Bains",
+      "Gujan-Mestras",
+      "La Teste-de-Buch",
+      "Biganos",
+      "Salles"
+    ],
+    "topic_id": null,
+    "description": "Cinéma… L’actu ciné, les programmes et tous les films sur le Bassin d’Arcachon dans les salles d’ Andernos, Biganos, Gujan-Mestras, La Teste-de-buch, Arcachon. The post Actu ciné, films sur Arcachon, La Teste, Gujan, Biganos, Andernos le 28/10 first appeared on InfoBassin.",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-10-29T21:19:15+01:00",
+    "last_seen_at": "2026-10-29T21:19:15+01:00"
   }
 }
