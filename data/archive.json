@@ -228,7 +228,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "f849e97fa7011ad42e3879d4": {
     "id": "f849e97fa7011ad42e3879d4",
@@ -248,7 +248,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-07T11:27:37+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "495955c5f6ccf1d6bae8c178": {
     "id": "495955c5f6ccf1d6bae8c178",
@@ -2635,7 +2635,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-08T12:36:59+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "775aff83434ba54f74b61fbb": {
     "id": "775aff83434ba54f74b61fbb",
@@ -4160,7 +4160,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-14T10:45:04+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "89273d2030c55492ce2955f0": {
     "id": "89273d2030c55492ce2955f0",
@@ -4587,7 +4587,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-15T16:10:52+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "60e76e75727e6661070bb70b": {
     "id": "60e76e75727e6661070bb70b",
@@ -5608,7 +5608,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-18T20:07:02+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "eecdbe83ff692331731cd116": {
     "id": "eecdbe83ff692331731cd116",
@@ -6377,7 +6377,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-21T10:36:17+02:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "954747c5a8eb1352dab6b493": {
     "id": "954747c5a8eb1352dab6b493",
@@ -8912,7 +8912,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-10-29T21:19:15+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "75a73c21697841fa63d32438": {
     "id": "75a73c21697841fa63d32438",
@@ -9412,7 +9412,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-01T20:41:27+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "b5c8ab3c6e5d85138e1a3c08": {
     "id": "b5c8ab3c6e5d85138e1a3c08",
@@ -10056,7 +10056,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-03T22:00:03+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "a193807806f55ed9f2810a1b": {
     "id": "a193807806f55ed9f2810a1b",
@@ -10119,7 +10119,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-04T11:56:56+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "d4099047f70ecc07605e79c8": {
     "id": "d4099047f70ecc07605e79c8",
@@ -10418,7 +10418,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-05T11:57:43+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "936244839f8ca4003ebebdc5": {
     "id": "936244839f8ca4003ebebdc5",
@@ -10436,7 +10436,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-05T11:57:43+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "97871d29827caedf6037dca1": {
     "id": "97871d29827caedf6037dca1",
@@ -10604,7 +10604,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-05T22:28:27+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "4571e4999adb0df7011b4267": {
     "id": "4571e4999adb0df7011b4267",
@@ -10664,7 +10664,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-06T11:55:16+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "4272dd06da9fd6c5f55407f7": {
     "id": "4272dd06da9fd6c5f55407f7",
@@ -11021,7 +11021,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-07T11:13:08+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "8cb16acf830d59bd13fd6d57": {
     "id": "8cb16acf830d59bd13fd6d57",
@@ -11064,7 +11064,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-07T11:13:08+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "cad940afb5ed6dfb29c5c341": {
     "id": "cad940afb5ed6dfb29c5c341",
@@ -11143,7 +11143,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-08T11:24:53+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "189a86cc46cce0f21580129a": {
     "id": "189a86cc46cce0f21580129a",
@@ -11365,7 +11365,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-08T20:42:04+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "affa728c49d593da9ff8f3f3": {
     "id": "affa728c49d593da9ff8f3f3",
@@ -11448,7 +11448,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-09T12:35:12+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "86483419e4c87da14f51d7a9": {
     "id": "86483419e4c87da14f51d7a9",
@@ -11807,7 +11807,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-10T12:14:35+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "d9f86c1877825c4c6b53e873": {
     "id": "d9f86c1877825c4c6b53e873",
@@ -12064,7 +12064,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-11T22:58:17+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "8d16a03835ff568831861250": {
     "id": "8d16a03835ff568831861250",
@@ -12084,7 +12084,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-11T22:58:17+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "105414e8cffeaeee8795833e": {
     "id": "105414e8cffeaeee8795833e",
@@ -12339,7 +12339,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-12T12:14:30+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "60d5ae6615dc12a602e0c9de": {
     "id": "60d5ae6615dc12a602e0c9de",
@@ -12661,7 +12661,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-13T12:00:17+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "768a40092bba80bf6324eec0": {
     "id": "768a40092bba80bf6324eec0",
@@ -12681,7 +12681,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-13T12:00:17+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "4153cce255594d154d17abb0": {
     "id": "4153cce255594d154d17abb0",
@@ -12847,7 +12847,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-13T22:26:03+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "4f856d31c5851b76b3d5ea04": {
     "id": "4f856d31c5851b76b3d5ea04",
@@ -12867,7 +12867,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-13T22:26:03+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "093771052127658e1a3bf494": {
     "id": "093771052127658e1a3bf494",
@@ -12947,7 +12947,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-14T11:28:07+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "72694a63b47ce9596e337126": {
     "id": "72694a63b47ce9596e337126",
@@ -13088,7 +13088,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-14T20:56:31+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "4cfccc82ea5a1474d125fec9": {
     "id": "4cfccc82ea5a1474d125fec9",
@@ -13109,7 +13109,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-15T11:56:01+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "3d77eb5f62d8ab26a576b2c3": {
     "id": "3d77eb5f62d8ab26a576b2c3",
@@ -13189,7 +13189,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-15T21:23:56+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "cef4ad8b7056638336bd0859": {
     "id": "cef4ad8b7056638336bd0859",
@@ -13230,7 +13230,7 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-16T12:21:38+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   },
   "6e77642a298be7a4fe3269b5": {
     "id": "6e77642a298be7a4fe3269b5",
@@ -13251,6 +13251,249 @@
     "description_origin": "rss",
     "verification": "rss_notice",
     "first_seen_at": "2026-11-16T12:21:38+01:00",
-    "last_seen_at": "2026-11-16T12:21:38+01:00"
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "2db02e1f229956ffe4608ac7": {
+    "id": "2db02e1f229956ffe4608ac7",
+    "title": "Mios : la commune se mobilise pour Movember avec un tournoi de raquettes inédit",
+    "url": "https://www.sudouest.fr/gironde/mios/mios-la-commune-se-mobilise-pour-movember-avec-un-tournoi-de-raquettes-inedit-31500844.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T21:10:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "associations-sport",
+    "places": [
+      "Mios"
+    ],
+    "topic_id": null,
+    "description": "Pour la cinquième année consécutive, la Ville propose plusieurs rendez-vous solidaires durant tout le mois de novembre, dont un grand tournoi multisport et un concours de moustaches, au profit de l’association",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "0b3993aa38723e640e4889cd": {
+    "id": "0b3993aa38723e640e4889cd",
+    "title": "Lège-Cap-Ferret : Marguerite Marcotte, 11 ans, élue maire au conseil municipal des jeunes",
+    "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-marguerite-marcotte-11-ans-elue-maire-au-conseil-municipal-des-jeunes-31547258.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T20:55:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "reconstruction-vie-publique",
+    "places": [
+      "Lège-Cap Ferret"
+    ],
+    "topic_id": null,
+    "description": "La nouvelle maire ferretcapienne a été installée lors d’une cérémonie officielle en présence de Philippe de Gonneville. Les jeunes élus s’apprêtent à s’engager dans de nombreux projets solidaires et citoyens",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "afd06fb0de23988562046c25": {
+    "id": "afd06fb0de23988562046c25",
+    "title": "Environnement : l’histoire de la valvométrie HFNI, une technologie inventée à la station marine d’Arcachon et capable de détecter les pollutions marines",
+    "url": "https://www.sudouest.fr/gironde/arcachon/environnement-l-histoire-de-la-valvometrie-hfni-une-technologie-inventee-a-la-station-marine-d-arcachon-et-capable-de-detecter-les-pollutions-marines-31493032.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T20:30:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "culture-sorties",
+    "places": [
+      "Arcachon"
+    ],
+    "topic_id": null,
+    "description": "L’ingénieur de recherches retraité Pierre Ciret racontera mercredi à Arcachon l’aventure de l’invention de la valvométrie HFNI, un instrument de mesures des réactions des bivalves capables de détecter",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "e0c5713058eb370c8cdad372": {
+    "id": "e0c5713058eb370c8cdad372",
+    "title": "La Teste-de-Buch : le salon Pilote Créa, salon des métiers d’art et d’artisanat, fête ses 10 ans avec un invité particulier, Oops Design",
+    "url": "https://www.sudouest.fr/gironde/la-teste-de-buch/la-teste-de-buch-le-salon-pilote-crea-salon-des-metiers-d-art-et-d-artisanat-fete-ses-10-ans-avec-un-invite-particulier-oops-design-31537608.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T20:07:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "vie-locale",
+    "places": [
+      "La Teste-de-Buch"
+    ],
+    "topic_id": null,
+    "description": "Pour sa 10e édition les 21 et 22 novembre, l’événement dédié aux métiers d’art et de l’artisanat réunit 100 créateurs et s’associe pour la première fois aux arts plastiques et de la mode",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "729afb5c09a382828fe139df": {
+    "id": "729afb5c09a382828fe139df",
+    "title": "Handball féminin / US Mios-Biganos contre Côte Basque : deux gardiennes XXL et une victoire des Miossaises face à Côte Basque",
+    "url": "https://www.sudouest.fr/sport/handball-feminin-us-mios-biganos-contre-cote-basque-deux-gardiennes-xxl-et-une-victoire-des-miossaises-face-a-cote-basque-31553189.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T20:05:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "vie-locale",
+    "places": [
+      "Biganos",
+      "Mios"
+    ],
+    "topic_id": null,
+    "description": "Les joueuses du Bassin font plier une très belle équipe de Côte Basque au terme d’un duel intense jusqu’au bout. En deux minutes de supériorité numérique, Aude Enrique marque 4 buts",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "b90921187b51d68e47dc6b2b": {
+    "id": "b90921187b51d68e47dc6b2b",
+    "title": "Gujan-Mestras : la troupe de l’ATGM monte sur la scène du Miroir pour jouer « Mes chers parents »",
+    "url": "https://www.sudouest.fr/gironde/gujan-mestras/gujan-mestras-la-troupe-de-l-atgm-monte-sur-la-scene-du-miroir-pour-jouer-mes-chers-parents-31522251.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T20:03:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "vie-locale",
+    "places": [
+      "Gujan-Mestras"
+    ],
+    "topic_id": null,
+    "description": "La compagnie théâtrale gujanaise propose quatre représentations de la comédie d’Emmanuel et Armelle Patron, du jeudi 19 au dimanche 22 novembre, dans une mise en scène signée Thierry Chapelier",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "86cec07bda826f2374b9d7fa": {
+    "id": "86cec07bda826f2374b9d7fa",
+    "title": "Lanton : une grande soirée gospel avec le Bordeaux Mass Choir",
+    "url": "https://www.sudouest.fr/gironde/lanton/lanton-une-grande-soiree-gospel-avec-le-bordeaux-mass-choir-31546305.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T19:45:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "associations-sport",
+    "places": [
+      "Lanton"
+    ],
+    "topic_id": null,
+    "description": "L’association So y Sol invite les 45 choristes du Bordeaux Mass Choir pour un concert exceptionnel au centre d’animation, samedi 21 novembre",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "7cb06b5dc0087a7988fb4d6f": {
+    "id": "7cb06b5dc0087a7988fb4d6f",
+    "title": "Gujan-Mestras : les nouveaux habitants ont pu exprimer leurs préoccupations lors de la cérémonie au Miroir",
+    "url": "https://www.sudouest.fr/gironde/gujan-mestras/gujan-mestras-les-nouveaux-habitants-ont-pu-exprimer-leurs-preoccupations-lors-de-la-ceremonie-au-miroir-31533208.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T19:43:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "vie-locale",
+    "places": [
+      "Gujan-Mestras"
+    ],
+    "topic_id": null,
+    "description": "La municipalité a reçu les nouveaux arrivants pour leur présenter la commune, les projets et répondre à leurs questions du quotidien, de la santé au logement en passant par la gestion des pistes cyclables",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "c0d16469401e6937c0aa7741": {
+    "id": "c0d16469401e6937c0aa7741",
+    "title": "Mios : le forum, Au-delà des différences, revient pour changer les regards sur le handicap",
+    "url": "https://www.sudouest.fr/gironde/mios/mios-le-forum-au-dela-des-differences-revient-pour-changer-les-regards-sur-le-handicap-31474513.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T19:39:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "culture-sorties",
+    "places": [
+      "Mios"
+    ],
+    "topic_id": null,
+    "description": "La nouvelle édition de son forum dédié au handicap se tiendra le samedi 21 novembre, à la salle de l’Alvéole, avec des ateliers, des rencontres et un spectacle poétique en langue signée",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "84b8a21faf9a17e61c1b5d22": {
+    "id": "84b8a21faf9a17e61c1b5d22",
+    "title": "Bassin d’Arcachon : « le Pyla, c’est Monaco sans les putes », Philippe Caverivière emporte la salle Cravey pour le festival de théâtre d’Olivier Marchal de La Teste-de-Buch",
+    "url": "https://www.sudouest.fr/gironde/la-teste-de-buch/bassin-d-arcachon-le-pyla-c-est-monaco-sans-les-putes-philippe-caveriviere-emporte-la-salle-cravey-pour-le-festival-de-theatre-d-olivier-marchal-de-la-teste-de-buch-31545762.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T19:31:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "culture-sorties",
+    "places": [
+      "Arcachon",
+      "La Teste-de-Buch"
+    ],
+    "topic_id": null,
+    "description": "Le premier spectacle du chroniqueur Philippe Caverivière dans le cadre du festival Les Scènes d’Olivier Marchal a fait rire toute la salle Pierre-Cravey de La Teste-de-Buch samedi soir",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "6a7a94d8b1221704a1825a42": {
+    "id": "6a7a94d8b1221704a1825a42",
+    "title": "Lanton : à la découverte des oiseaux migrateurs sur le littoral",
+    "url": "https://www.sudouest.fr/gironde/lanton/lanton-a-la-decouverte-des-oiseaux-migrateurs-sur-le-littoral-31479196.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T19:17:00+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "vie-locale",
+    "places": [
+      "Arcachon",
+      "Lanton"
+    ],
+    "topic_id": null,
+    "description": "La maison de la Nature du bassin d’Arcachon propose des rendez-vous réguliers sur la plage Suzette pour observer la faune et sensibiliser le public",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
+  },
+  "aa094e215bb31caccfdcc9ef": {
+    "id": "aa094e215bb31caccfdcc9ef",
+    "title": "Biganos : un café citoyen pour débattre de l’emploi et du handicap",
+    "url": "https://www.sudouest.fr/gironde/biganos/biganos-un-cafe-citoyen-pour-debattre-de-l-emploi-et-du-handicap-31543653.php",
+    "source_id": "sud-ouest",
+    "source_name": "Sud Ouest",
+    "published_at": "2026-11-16T14:02:25+01:00",
+    "modified_at": null,
+    "publication_date": "2026-11-16",
+    "theme": "economie",
+    "places": [
+      "Biganos"
+    ],
+    "topic_id": null,
+    "description": "La salle des fêtes accueille ce mardi 17 novembre une rencontre gratuite sur l’insertion professionnelle des personnes en situation de handicap, animée par un spécialiste de l’Adapei 33",
+    "description_origin": "rss",
+    "verification": "rss_notice",
+    "first_seen_at": "2026-11-17T00:44:40+01:00",
+    "last_seen_at": "2026-11-17T00:44:40+01:00"
   }
 }
